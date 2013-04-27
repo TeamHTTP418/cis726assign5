@@ -1,0 +1,45 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MessageParser
+{
+    public class Response<T>
+    {
+        private MethodType method;
+        private Object result;
+
+        public Response(Request<T> originator, Object result)
+        {
+            this.method = originator.Method;
+            this.result = result;
+        }
+
+        public List<T> ToList()
+        {
+            if (method == MethodType.GetAll || method == MethodType.GetItemsByClause)
+            {
+                return (result as List<T>);
+            }
+            else
+            {
+                var output = new List<T>(1);
+                output.Add(((T)result));
+                return output;
+            }
+        }
+        public T ToValue()
+        {
+            if (method == MethodType.GetAll || method == MethodType.GetItemsByClause)
+            {
+                throw new InvalidCastException("This method returns a list, not a value. Call ToList() and use the First() method to retrieve only one value.");
+            }
+            else
+            {
+                return ((T)result);
+            }
+        }
+    }
+}

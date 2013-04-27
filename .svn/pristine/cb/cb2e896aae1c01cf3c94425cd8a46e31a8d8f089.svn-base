@@ -1,0 +1,81 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Messaging;
+using MessageParser.Models;
+
+namespace MessageParser
+{
+    public class MessageProcessor
+    {
+        private GenericRequest request;
+        private CourseDBContext context;
+
+        public MessageProcessor(GenericRequest request)
+        {
+            this.request = request;
+            
+            context = new CourseDBContext();
+        }
+
+        public Object GetItemByID()
+        {
+            int id;
+            Console.WriteLine(request is Request<Course>);
+            switch (request.Type)
+            {
+                case ModelType.Course:
+                    var req = (request as Request<Course>);
+                    id = req.RequestedID;
+                    var results = context.Courses.Where(t => t.ID == id).First();
+                    return (new Response<Course>(request as Request<Course>, results));
+                case ModelType.DegreeProgram:
+                    id = (request as Request<DegreeProgram>).RequestedID;
+                    break;
+                case ModelType.ElectiveCourse:
+                    id = (request as Request<ElectiveCourse>).RequestedID;
+                    break;
+                case ModelType.ElectiveList:
+                    id = (request as Request<ElectiveList>).RequestedID;
+                    break;
+                case ModelType.ElectiveListCourse:
+                    id = (request as Request<ElectiveListCourse>).RequestedID;
+                    break;
+                case ModelType.Plan:
+                    id = (request as Request<Plan>).RequestedID;
+                    break;
+                case ModelType.PlanCourse:
+                    id = (request as Request<PlanCourse>).RequestedID;
+                    break;
+                case ModelType.PrerequisiteCourse:
+                    id = (request as Request<PrerequisiteCourse>).RequestedID;
+                    break;
+                case ModelType.RequiredCourse:
+                    id = (request as Request<RequiredCourse>).RequestedID;
+                    break;
+                case ModelType.Semester:
+                    id = (request as Request<Semester>).RequestedID;
+                    break;
+                case ModelType.User:
+                    id = (request as Request<User>).RequestedID;
+                    break;
+            }
+            return null;
+        }
+        public Object GetItemByClause(Func<Object, bool> predicate)
+        {
+            return null;
+        }
+        public List<Object> GetItemsByClause(Func<Object, bool> predicate)
+        {
+            return null;
+        }
+        public List<Object> GetAll()
+        {
+            return null;
+        }
+    }
+
+}

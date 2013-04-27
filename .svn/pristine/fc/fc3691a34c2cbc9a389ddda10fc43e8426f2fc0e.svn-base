@@ -1,0 +1,4 @@
+﻿@model CIS726_Assignment2.Models.DegreeProgram
+<div>
+    @Html.ActionLink(Model.degreeProgramName, "Details", "DegreePrograms", new { id = Model.ID }, null)
+</div>

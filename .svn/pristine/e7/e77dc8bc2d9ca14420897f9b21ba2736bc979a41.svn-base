@@ -1,0 +1,19 @@
+﻿@model CIS726_Assignment2.Models.RequiredCourse
+@using HtmlHelpers.BeginCollectionItem
+
+<fieldset>
+    @using(Html.BeginCollectionItem("RequiredCourses")){
+    <ol>
+        <li>
+            Course Title: @Html.TextBox("coursesearch", (Model != null && Model.course != null ? Model.course.courseHeader : ""), new { @class = "reqcourseauto" })  |    
+            @Html.ValidationMessageFor(model => model.courseID)
+            Semester: @Html.TextBoxFor(model => model.semester, new { @class = "shortField"} )  |   
+            @Html.ValidationMessageFor(model => model.semester)
+            <a href="#" onclick="$(this).parent().parent().parent().remove(); return false;">Delete Course</a>
+            @Html.HiddenFor(model => model.ID)
+            @Html.HiddenFor(model => model.courseID, new { @class = "reqcourseid" })
+            @Html.HiddenFor(model => model.degreeProgramID)
+        </li>
+    </ol>
+    }
+</fieldset>

@@ -1,0 +1,38 @@
+﻿@model CIS726_Assignment2.Models.Plan
+
+@{
+    ViewBag.Title = "Plan of Study Details";
+}
+
+<div class="contentbox">
+    <div class="liquid_100">
+        <h2>@Html.DisplayFor(model => model.planName)</h2>
+        <hr />
+        <h4>Customize your flowchart by dragging and dropping courses below. Double-click to select a course for an elective or to add notes on a course.</h4>
+        <p id="startingSemester" data-startingsemester="@Model.semesterID" data-planid="@Model.ID">
+            @Html.DisplayFor(model => model.degreeProgram)
+            <strong>User:</strong> @Html.DisplayFor(model => model.user.realName) (@Html.DisplayFor(model => model.user.username)) <br />
+            <strong>Starting Semester: </strong> @Html.DisplayFor(model => model.semester.semesterName)
+        </p>
+        @Html.DropDownList("semesterID") <a id="addSemester" href="#">Add Semester to Flowchart</a>
+        <br />
+        <br />
+        <canvas id="flowchartCanvas" width="1220" height="800"></canvas> 
+        <hr />
+        <p>
+            @Html.ActionLink("Edit", "Edit", new { id=Model.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=Model.ID }) |
+            @Html.ActionLink("Back to Plan of Study List", "Index")
+        </p>
+    </div>
+</div>
+
+<div id="popup" class="jqmWindow">
+    <p>
+        Loading... please wait a moment!
+    </p>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/flowchart")
+}

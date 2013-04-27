@@ -1,0 +1,4 @@
+﻿@model MessageParser.Models.Course
+<div>
+    @Html.ActionLink(Model.courseHeader, "Details", "Courses", new { id = Model.ID }, null) (@Html.DisplayFor(model => model.courseHours))
+</div>

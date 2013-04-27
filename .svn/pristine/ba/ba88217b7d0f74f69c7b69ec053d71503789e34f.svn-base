@@ -1,0 +1,49 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.Serialization;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MessageParser
+{
+    [DataContract]
+    public class Response<T>
+    {
+        [DataMember]
+        private MethodType method;
+        [DataMember]
+        private T resultVal;
+        [DataMember]
+        private List<T> resultList;
+
+        public Response()
+        {
+            this.method = MethodType.GetAll;
+            this.resultVal = default(T);
+            this.resultList = new List<T>();
+        }
+        public Response(Request<T> originator, T result)
+        {
+            this.method = originator.Method;
+            this.resultVal = result;
+            this.resultList = new List<T>();
+            this.resultList.Add(result);
+        }
+        public Response(Request<T> originator, List<T> result)
+        {
+            this.method = originator.Method;
+            this.resultList = result;
+            this.resultVal = result.First();
+        }
+
+        public List<T> ToList()
+        {
+            return this.resultList;
+        }
+        public T ToValue()
+        {
+            return this.resultVal;
+        }
+    }
+}

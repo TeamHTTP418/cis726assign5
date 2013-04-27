@@ -1,0 +1,18 @@
+<electivelists>
+<htmlparse.ElectiveList><id>1</id><name>Engineering - Humanities and Social Science Electives</name><shortname>Hum. &amp; Soc. Sci.</shortname></htmlparse.ElectiveList>
+<htmlparse.ElectiveList><id>2</id><name>CIS - Technical Electives</name><shortname>Tech Elect.</shortname></htmlparse.ElectiveList>
+<htmlparse.ElectiveList><id>3</id><name>CIS - Natural Sciences Electives</name><shortname>Nat. Sci.</shortname></htmlparse.ElectiveList>
+<htmlparse.ElectiveList><id>4</id><name>CIS - Communication Electives</name><shortname>Comm. Elect.</shortname></htmlparse.ElectiveList>
+<htmlparse.ElectiveList><id>5</id><name>Unrestricted Electives</name><shortname>Unrest.</shortname></htmlparse.ElectiveList>
+<htmlparse.ElectiveList><id>6</id><name>CIS - Master of Science Implementation</name><shortname>MS Impl.</shortname></htmlparse.ElectiveList>
+<htmlparse.ElectiveList><id>7</id><name>CIS - Master of Science Languages</name><shortname>MS Lang.</shortname></htmlparse.ElectiveList>
+<htmlparse.ElectiveList><id>8</id><name>CIS - Master of Science Systems</name><shortname>MS Sys.</shortname></htmlparse.ElectiveList>
+<htmlparse.ElectiveList><id>9</id><name>CIS - Master of Science Structures</name><shortname>MS Struct.</shortname></htmlparse.ElectiveList>
+<htmlparse.ElectiveList><id>10</id><name>CIS - Master of Science Theory</name><shortname>MS Theory</shortname></htmlparse.ElectiveList>
+<htmlparse.ElectiveList><id>11</id><name>CIS - Master of Science Specialization</name><shortname>MS Spec.</shortname></htmlparse.ElectiveList>
+<htmlparse.ElectiveList><id>12</id><name>CIS - Master of Software Engineering Specialization</name><shortname>MSE Spec.</shortname></htmlparse.ElectiveList>
+<htmlparse.ElectiveList><id>13</id><name>CIS - Master of Software Engineering Technical Electives</name><shortname>MSE Tech Elect.</shortname></htmlparse.ElectiveList>
+<htmlparse.ElectiveList><id>14</id><name>CIS - Doctoral Courses</name><shortname>PhD Courses</shortname></htmlparse.ElectiveList>
+<htmlparse.ElectiveList><id>15</id><name>CIS - Doctoral Courses 800 Level or Higher</name><shortname>PhD 800+</shortname></htmlparse.ElectiveList>
+<htmlparse.ElectiveList><id>16</id><name>CIS - Doctoral Research</name><shortname>PhD Research</shortname></htmlparse.ElectiveList>
+</electivelists>

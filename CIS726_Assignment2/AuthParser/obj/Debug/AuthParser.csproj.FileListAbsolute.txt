@@ -1,0 +1,16 @@
+C:\Users\Brian\Documents\Visual Studio 2012\Projects\cis726assign4\CIS726_Assignment2\AuthParser\bin\Debug\AuthParser.exe.config
+C:\Users\Brian\Documents\Visual Studio 2012\Projects\cis726assign4\CIS726_Assignment2\AuthParser\bin\Debug\AuthParser.exe
+C:\Users\Brian\Documents\Visual Studio 2012\Projects\cis726assign4\CIS726_Assignment2\AuthParser\bin\Debug\AuthParser.pdb
+C:\Users\Brian\Documents\Visual Studio 2012\Projects\cis726assign4\CIS726_Assignment2\AuthParser\bin\Debug\EntityFramework.dll
+C:\Users\Brian\Documents\Visual Studio 2012\Projects\cis726assign4\CIS726_Assignment2\AuthParser\bin\Debug\MessageParser.exe
+C:\Users\Brian\Documents\Visual Studio 2012\Projects\cis726assign4\CIS726_Assignment2\AuthParser\bin\Debug\WebMatrix.Data.dll
+C:\Users\Brian\Documents\Visual Studio 2012\Projects\cis726assign4\CIS726_Assignment2\AuthParser\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Brian\Documents\Visual Studio 2012\Projects\cis726assign4\CIS726_Assignment2\AuthParser\bin\Debug\MessageParser.pdb
+C:\Users\Brian\Documents\Visual Studio 2012\Projects\cis726assign4\CIS726_Assignment2\AuthParser\bin\Debug\EntityFramework.xml
+C:\Users\Brian\Documents\Visual Studio 2012\Projects\cis726assign4\CIS726_Assignment2\AuthParser\bin\Debug\WebMatrix.Data.xml
+C:\Users\Brian\Documents\Visual Studio 2012\Projects\cis726assign4\CIS726_Assignment2\AuthParser\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Brian\Documents\Visual Studio 2012\Projects\cis726assign4\CIS726_Assignment2\AuthParser\obj\Debug\AuthParser.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2012\Projects\cis726assign4\CIS726_Assignment2\AuthParser\obj\Debug\CIS726_Assignment2.Migrations.InitialMigration.resources
+C:\Users\Brian\Documents\Visual Studio 2012\Projects\cis726assign4\CIS726_Assignment2\AuthParser\obj\Debug\AuthParser.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\Visual Studio 2012\Projects\cis726assign4\CIS726_Assignment2\AuthParser\obj\Debug\AuthParser.exe
+C:\Users\Brian\Documents\Visual Studio 2012\Projects\cis726assign4\CIS726_Assignment2\AuthParser\obj\Debug\AuthParser.pdb

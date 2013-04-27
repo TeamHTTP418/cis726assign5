@@ -1,0 +1,24 @@
+﻿@model CIS726_Assignment2.Models.ElectiveList
+
+@{
+    ViewBag.Title = "Delete Elective List";
+}
+
+<div class="contentbox">
+    <div class="liquid_100">
+        <h2>@Html.DisplayFor(model => model.electiveListName)</h2>
+        <h4 class="warning">Are you sure you want to delete this elective list?</h4>
+         @using (Html.BeginForm()) {
+        <p>
+            <input type="submit" value="Delete" /> |
+            @Html.ActionLink("Back to Elective Lists", "Index")
+        </p>
+    }
+        <hr />
+        <p>
+            <strong>Available Courses</strong>
+            @Html.DisplayFor(model => model.courses)
+        </p>
+    </div>
+</div>
+

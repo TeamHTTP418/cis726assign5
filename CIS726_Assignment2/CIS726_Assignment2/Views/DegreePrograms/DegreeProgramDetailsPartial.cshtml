@@ -1,0 +1,16 @@
+﻿@model MessageParser.Models.DegreeProgram
+
+<h2>@Html.DisplayFor(model => model.degreeProgramName)</h2>
+<hr/>
+<p id="startingSemester" data-planid="@Model.ID">
+    @Html.DisplayFor(model => model.degreeProgramDescription)
+</p>
+<canvas id="flowchartCanvas" width="1220" height="800"></canvas> 
+<p>
+    <strong>Required Courses</strong>
+    @Html.DisplayFor(model => model.requiredCourses)
+</p>
+<p>
+    <strong>Electives</strong>
+    @Html.DisplayFor(model => model.electiveCourses)
+</p>

@@ -1,0 +1,17 @@
+﻿@model CIS726_Assignment2.Models.PrerequisiteCourse
+
+@using HtmlHelpers.BeginCollectionItem
+
+<fieldset>
+    @using(Html.BeginCollectionItem("PrerequisiteCourses")){
+    <ol>
+        <li>
+            Course: @Html.TextBox("prerequisiteCourseName", (Model != null && Model.prerequisiteCourse != null ? Model.prerequisiteCourse.courseHeader : ""), new { @class = "prereqcourseauto" })  |  
+            <a href="#" onclick="$(this).parent().parent().parent().remove(); return false;">Delete Course</a>
+            @Html.HiddenFor(model => model.prerequisiteCourseID, new { @class = "prereqcourseid" })
+            @Html.HiddenFor(model => model.prerequisiteForCourseID)
+            @Html.HiddenFor(model => model.ID)
+        </li>
+    </ol>
+    }
+</fieldset>

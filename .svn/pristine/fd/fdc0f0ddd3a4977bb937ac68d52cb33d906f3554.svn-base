@@ -1,0 +1,40 @@
+﻿@model MessageParser.Models.Course
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<div class="contentbox">
+    <div class="liquid_100">
+        <h2>Edit Course: @Html.DisplayFor(model => model.coursePrefix) @Html.DisplayFor(model => model.courseNumber) - @Html.DisplayFor(model => model.courseTitle)</h2>
+
+        @using (Html.BeginForm("Edit", "Courses", FormMethod.Post, new { @id = "editform" }))
+{
+        @Html.HiddenFor(model => model.ID)
+        @Html.Partial("CourseFormPartial", Model)
+
+        <fieldset>
+        <legend><h2>Prerequisite Courses:</h2></legend>
+        <div id="prereqcourses" data-courseid="@Model.ID">
+            @if(Model.prerequisites != null){
+                foreach(MessageParser.Models.PrerequisiteCourse item in Model.prerequisites){
+                    @Html.Partial("PrerequisiteCourseFormPartial", item);
+                }
+            }
+        </div>
+        <a id="addPrerequisiteCourse" href="#">Add a Course</a>
+    </fieldset>
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+}
+        <p>
+            @Html.ActionLink("Back to Course List", "Index")
+        </p>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/site")
+}

@@ -1,0 +1,47 @@
+﻿@model CIS726_Assignment2.ViewModels.RegisterModel
+@{
+    ViewBag.Title = "Create User Account";
+}
+
+<div class="contentbox">
+    <div class="liquid_100">
+
+@using (Html.BeginForm("Create", "Users", FormMethod.Post, new { @id = "editform" }))
+{
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary()
+
+        <fieldset>
+            <legend>Create a User Account</legend>
+            <ol>
+                <li>
+                    @Html.LabelFor(m => m.UserName)
+                    @Html.TextBoxFor(m => m.UserName)
+                </li>
+                <li>
+                    @Html.LabelFor(m => m.realName)
+                    @Html.TextBoxFor(m => m.realName)
+                </li>
+                <li>
+                    @Html.LabelFor(m => m.Password)
+                    @Html.PasswordFor(m => m.Password)
+                </li>
+                <li>
+                    @Html.LabelFor(m => m.ConfirmPassword)
+                    @Html.PasswordFor(m => m.ConfirmPassword)
+                </li>
+            </ol>
+        </fieldset>
+        <p>
+            <input type="submit" value="Register" />
+        </p>
+        <p>
+            @Html.ActionLink("Back to Users List", "Index")
+        </p>
+}
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

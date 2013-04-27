@@ -1,0 +1,151 @@
+﻿@model PagedList.IPagedList<CIS726_Assignment2.Models.Course>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="contentbox">
+    <div class="liquid_100">
+        <div class="button createbutton">@Html.ActionLink("Create New Course", "Create")</div>
+        <h2>Course Catalog</h2>
+        <div class="hideable_form">
+@using (Html.BeginForm("Index", "Courses", FormMethod.Post, new { @id = "editform" }))
+{
+        <fieldset>
+            <legend class="toggle_me" data-filtered="@ViewBag.filtered"><img src="@Url.Content("~/Content/Images/icons/soft_grey/minimize.png")" } class="img_switch"/><img src="@Url.Content("~/Content/Images/icons/soft_grey/maximize.png")" hidden } class="img_switch"/> Filter Courses</legend>
+            <ol>
+                <li>
+                    @Html.Raw("Course Prefix: ")
+                    @Html.DropDownList("prefixes")
+                </li>
+                <li>
+                    @Html.Raw("Course Number between ")
+                    @Html.TextBox("minNumber", (string)ViewBag.minNum, new { @class = "shortField"} ) 
+                    @Html.Raw(" and ")
+                    @Html.TextBox("maxNumber", (string)ViewBag.maxNum, new { @class = "shortField" } )
+                </li>
+                <li>
+                    @Html.Raw("Include: ")
+                    @Html.CheckBox("ugrad", (bool)ViewBag.ugrad)
+                    @Html.Raw(" Undergraduate Classes ")
+                    @Html.CheckBox("grad", (bool)ViewBag.grad)
+                    @Html.Raw(" Graduate Classes")
+                </li>
+                <li>
+                    @Html.Raw("Credit Hours between ")
+                    @Html.TextBox("minHours", (string)ViewBag.minHrs, new { @class = "shortField"} ) 
+                    @Html.Raw(" and ")
+                    @Html.TextBox("maxHours", (string)ViewBag.maxHrs, new { @class = "shortField" } )
+                </li>
+            </ol>
+            <p>
+                <input type="submit" value="Filter" />
+                @Html.ActionLink("Remove Filter", "Index")
+            </p>
+        </fieldset>
+}
+        </div>
+        @if(Model.Count <= 0){
+            <h3>No courses found!</h3>
+        }else{
+            <table class="table">
+                <tr>
+                    <th>
+                        @Html.ActionLink("" + @Html.DisplayNameFor(model => model.First().courseNumber), "Index", new{ page = Model.PageNumber, sortOrder = (ViewBag.numSort + (ViewBag.numAsc ? "num_desc" : "num_asc")), filterString = ViewBag.filterString })
+                    </th>
+                    <th>
+                        @Html.ActionLink("" + @Html.DisplayNameFor(model => model.First().courseTitle), "Index", new{ page = Model.PageNumber, sortOrder = (ViewBag.titleSort + (ViewBag.titleAsc ? "title_desc" : "title_asc")), filterString = ViewBag.filterString })
+                    </th>
+                    <th>
+                        @Html.ActionLink("" + @Html.DisplayNameFor(model => model.First().courseHours), "Index", new{ page = Model.PageNumber, sortOrder = (ViewBag.hoursSort + (ViewBag.hoursAsc ? "hours_desc" : "hours_asc")), filterString = ViewBag.filterString })
+                    </th>
+                    <th>Actions</th>
+                </tr>
+            @foreach (var item in Model) {
+                <tr class="course_detail">
+                    <td>
+                        @Html.DisplayFor(modelItem => item.courseCatalogNumber)
+                    </td>
+                    <td class="left-align">
+                        @Html.ActionLink(item.courseTitle, "Details", new { id = item.ID })
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.courseHours)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+                        @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+                    </td>
+                </tr>
+            }
+            </table>
+            
+            <p>  
+                @if(Model.PageCount > 1)
+                {   
+                    @Html.Raw("Page: ")
+
+                    if (Model.PageNumber > 1){
+                        @Html.ActionLink("1", "Index", new { page = 1, sortOrder = ViewBag.currentSort, filterString = ViewBag.filterString })
+                    }else{
+                        @Html.Raw("1");
+                    }
+
+                    @Html.Raw(" ")
+
+                    if(Model.PageNumber - 4 > 1){
+                        @Html.Raw("... ");
+                    }
+
+                    if(Model.PageNumber - 3 > 1){
+                        @Html.ActionLink("" + (Model.PageNumber - 3), "Index", new{ page = Model.PageNumber - 3, sortOrder = ViewBag.currentSort, filterString = ViewBag.filterString })
+                        @Html.Raw(" ");
+                    }
+
+                    if(Model.PageNumber - 2 > 1){
+                        @Html.ActionLink("" + (Model.PageNumber - 2), "Index", new{ page = Model.PageNumber - 2, sortOrder = ViewBag.currentSort, filterString = ViewBag.filterString })
+                        @Html.Raw(" ");
+                    }
+
+                    if(Model.PageNumber - 1 > 1){
+                        @Html.ActionLink("" + (Model.PageNumber - 1), "Index", new{ page = Model.PageNumber - 1, sortOrder = ViewBag.currentSort, filterString = ViewBag.filterString })
+                        @Html.Raw(" ");
+                    }
+
+                    if(Model.PageNumber > 1 && Model.PageNumber < Model.PageCount){
+                        @Html.Raw(Model.PageNumber + " ")
+                    }
+                
+                    if(Model.PageNumber + 1 < Model.PageCount){
+                        @Html.ActionLink("" + (Model.PageNumber + 1), "Index", new{ page = Model.PageNumber + 1, sortOrder = ViewBag.currentSort, filterString = ViewBag.filterString })
+                        @Html.Raw(" ");
+                    }
+
+                    if(Model.PageNumber + 2 < Model.PageCount){
+                        @Html.ActionLink("" + (Model.PageNumber + 2), "Index", new{ page = Model.PageNumber + 2, sortOrder = ViewBag.currentSort, filterString = ViewBag.filterString })
+                        @Html.Raw(" ");
+                    }
+
+                    if(Model.PageNumber + 3 < Model.PageCount){
+                        @Html.ActionLink("" + (Model.PageNumber + 3), "Index", new{ page = Model.PageNumber + 3, sortOrder = ViewBag.currentSort, filterString = ViewBag.filterString })
+                        @Html.Raw(" ");
+                    }
+                
+                    if(Model.PageNumber + 4 < Model.PageCount){
+                        @Html.Raw("... ");
+                    }
+                
+                    if(Model.PageNumber < Model.PageCount){
+                        @Html.ActionLink("" + Model.PageCount, "Index", new { page = Model.PageCount, sortOrder = ViewBag.currentSort, filterString = ViewBag.filterString })
+                    }else{
+                        @Html.Raw("" + Model.PageCount);
+                    }
+                }
+        </p>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/site")
+}

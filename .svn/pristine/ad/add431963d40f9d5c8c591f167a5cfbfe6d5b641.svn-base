@@ -1,0 +1,72 @@
+[
+  {
+    "courseTitle": "CIS 115",
+	"semester": "6",
+	"order": "0"
+  },
+  {
+    "courseTitle": "MATH 220",
+	"semester": "6",
+	"order": "1"
+  },
+  {
+    "courseTitle": "ENGL 100",
+	"semester": "6",
+	"order": "2"
+  },
+  {
+    "courseTitle": "HUMAN 1",
+	"semester": "6",
+	"order": "3"
+  },
+  {
+    "courseTitle": "COMM 105",
+	"semester": "6",
+	"order": "4"
+  },
+  {
+    "courseTitle": "CIS 200",
+	"semester": "8",
+	"order": "0"
+  },
+  {
+    "courseTitle": "MATH 221",
+	"semester": "8",
+	"order": "1"
+  },
+  {
+    "courseTitle": "ECE 241",
+	"semester": "8",
+	"order": "2"
+  },
+  {
+    "courseTitle": "NATSCI 1",
+	"semester": "8",
+	"order": "3"
+  },
+  {
+    "courseTitle": "CIS 300",
+	"semester": "12",
+	"order": "0"
+  },
+  {
+    "courseTitle": "CIS 301",
+	"semester": "12",
+	"order": "1"
+  },
+  {
+    "courseTitle": "ENGL 200",
+	"semester": "12",
+	"order": "2"
+  },
+  {
+    "courseTitle": "ECON 110",
+	"semester": "12",
+	"order": "3"
+  },
+  {
+    "courseTitle": "HUMAN 2",
+	"semester": "12",
+	"order": "4"
+  }
+]

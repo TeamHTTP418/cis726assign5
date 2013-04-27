@@ -1,0 +1,4 @@
+﻿@model CIS726_Assignment2.Models.ElectiveList
+<div>
+    @Html.ActionLink(Model.electiveListName, "Details", "ElectiveLists", new { id = Model.ID }, null)
+</div>

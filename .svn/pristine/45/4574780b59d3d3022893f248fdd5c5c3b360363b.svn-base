@@ -1,0 +1,52 @@
+﻿@model CIS726_Assignment2.ViewModels.UserEdit
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<div class="contentbox">
+    <div class="liquid_100">
+          <h2>Edit User: @Html.DisplayFor(model => model.username)</h2>
+@using (Html.BeginForm("Edit", "Users", FormMethod.Post, new {@id = "editform"})) {
+    @Html.ValidationSummary(true)
+    @Html.HiddenFor(model => model.ID)
+    @Html.HiddenFor(model => model.username)
+        <fieldset>
+            <legend>Basic User Information</legend>
+            <ol>
+                <li>
+                    @Html.LabelFor(model => model.realName)
+                    @Html.EditorFor(model => model.realName)
+                    @Html.ValidationMessageFor(model => model.realName)
+                </li>
+            </ol>
+        </fieldset>
+        if(User.IsInRole("Administrator")){
+            <fieldset>
+                <legend>Roles</legend>
+                <ol>
+                @foreach(String role in ViewBag.AllRoles){
+                    if(ViewBag.UserRoles.Contains(role)){
+                        <li>@Html.Label(role) @Html.CheckBox("userRoleCheck", true, new { value = role })</li>
+                    }else{
+                        <li>@Html.Label(role) @Html.CheckBox("userRoleCheck", false, new { value = role })</li>
+                    }
+                }
+                </ol>
+            </fieldset>
+        }
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+}
+        @if(User.IsInRole("Administrator")){    
+        <p>
+            @Html.ActionLink("Back to Users", "Index")
+        </p>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

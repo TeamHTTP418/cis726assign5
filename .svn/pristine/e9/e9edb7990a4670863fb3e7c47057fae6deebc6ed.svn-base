@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using CIS726_Assignment2.Models;
+using System.Messaging;
+
+namespace MessageParser
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            while (true)
+            {
+                try
+                {
+                    var obj = ObjectMessageQueue.receiveObject();
+                }
+                catch (MessageQueueException)
+                {
+                    continue;
+                }
+            }
+        }
+    }
+}

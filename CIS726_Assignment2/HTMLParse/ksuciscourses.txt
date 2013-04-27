@@ -1,0 +1,2648 @@
+<ul>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 015 - Undergraduate Seminar</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(0)</p>
+                                    <hr/>
+                                    <p>Presentation of professional problems and practices by students, faculty, and industry professionals associated with computing and information sciences.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> One hour lecture per week. Required of all undergraduate students new to the department.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 101 - Introduction to Computing Systems, Information Search, and Security</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(1)</p>
+                                    <hr/>
+                                    <p>Introduction to basic computer and Internet security including basic computer security and privacy issues, computer networks, malware protection; effective use of the Internet as a resource including website evaluation and effective search tools and techniques.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> One hour lecture, two hours scheduled laboratory, and two hours unscheduled open laboratory each week. Course meets in one contiguous block of four weeks.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring, Summer
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Ethical Reasoning and Responsibility
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 102 - Introduction to Spreadsheet Applications</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(1)</p>
+                                    <hr/>
+                                    <p>Designing, building, and modifying spreadsheets. Addressing techniques and formatting. Use of formulas and functions. Spreadsheets as management and decision tools. Charting of data.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> One hour lecture, two hours scheduled laboratory and two hours unscheduled open laboratory each week. Course meets in one contiguous block of four weeks.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring, Summer
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 103 - Introduction to Database Applications</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(1)</p>
+                                    <hr/>
+                                    <p>Design, create, modify, and maintain relational databases. Create relationships. Add and modify data. Search and query database. Design and create screen forms and reports.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> One hour lecture, two hours scheduled lab, and two hours unscheduled open lab each week. Course meets in one contiguous block of four weeks.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring, Summer
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 104 - Introduction to Word Processing Applications</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(1)</p>
+                                    <hr/>
+                                    <p>Basic features of word processing. Create and edit a document. View, format, and customize document. Revise, update, and rearrange text. Add graphics. Support features. Merge documents.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> One hour lecture, two hours scheduled lab, and two hours scheduled open lab each week. Course meets in one contiguous block of four weeks.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring, Summer
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 105 - Introduction to Computer Programming</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(1)</p>
+                                    <hr/>
+                                    <p>An introduction to computer problem solving; basic programming logic; algorithms; control structures; and data structures. The focus is on the control flow of programming with an elementary introduction to object-oriented design. Upon successful completion of the course, students should be able to write simple computer programs.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Consists of one hour lecture and one hour recitation per week for 8 weeks.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring, Summer
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 111 - Introduction to Computer Programming</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Introduction to programming. Principles and applications of programming fundamentals: state, control structures, methods, and arrays. Programming projects.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Two hours lecture, two hours lab per week.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: MATH 100. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 115 - Introduction to Computing Science</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>A survey of the discipline of Computing Science and its interaction with other disciplines, incorporating historical development, theories, and tools of Computing Science (algorithm design and programming). Topics include: mechanical computers, digital computers, bioinformatics, microcontrollers, robotics, security, scientific computing, simulation, and web technologies.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: None.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 190 - Undergraduate Seminar in Computing and Information Sciences</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(1-3)</p>
+                                    <hr/>
+                                    <p>Topics of special interest in computing and information sciences.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 200 - Programming Fundamentals</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(4)</p>
+                                    <hr/>
+                                    <p>Principles of algorithm design and their application to procedural programming: state, control structures, methods. Patterns of conditional and iterative control structure.  Program testing. Introduction to arrays, classes, and objects.  Programming projects.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: MATH 100 and either CIS 115 OR ECE 241.
+                        <br/>
+                                    <br/>
+                        Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 209 - C Programming for Engineers</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Application of computers to engineering problems. Abstraction and problem solving; algorithms; control structures; input/output; functions; arrays and array processing.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Two hours lecture, two hours lab each week.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: MATH 220. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring, Summer
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 300 - Data and Program Structures</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>A study of common data and program structures together with associated algorithms. Topics include interfaces, design patterns, arrays, stacks, queues, lists, trees, hash tables, recursion, binary search, and tree traversals. Experience with both use and implementation of these structures and algorithms using a modern programming language. Discussion of tradeoffs involving performance and software maintainability.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 200. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 301 - Logical Foundations of Programming</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Logical formalisms used to model and reason about computer systems. Propositional and predicate logic, syntax, semantics, and proof theory; soundness and completeness issues. Mathematical induction. Program verification: invariants and program logics.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 200. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 308 - C/C++ Language Laboratory</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(1)</p>
+                                    <hr/>
+                                    <p>Fundamentals of programming in C and C++; applications.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Three hours lab a week.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 300. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 362 - Introduction to Business Programming</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>An introduction to basic business programming techniques including file manipulation operations and sorting. The COBOL language will be used as an implementation tool.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 200. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 397 - Honors Seminar in Computer Science</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(1-3)</p>
+                                    <hr/>
+                                    <strong>UGE course</strong>
+                                    <br/>
+                                    <p>No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 415 - Computers and Society</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(1)</p>
+                                    <hr/>
+                                    <p>A study of the impact of computers and associated technologies on society, including such topics as ethics of computer use, computer fraud, protection of privacy; legal, moral, and public policy-making responsibility of computer professionals.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 300. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Ethical Reasoning and Responsibility
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 450 - Computer Architecture and Operations</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Introduction to modern computer architectures: register transfer abstraction, addressing modes, basic operations (data transfer, arithmetic/logic, and control operations). Basic Operating System concepts and operations. Understanding relationships of higher-level language constructs to corresponding assembly instruction sequences generated by compilers. Introduction to interrupts and low-level I/O operations.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: ECE 241. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses. Prerequisite or concurrent enrollment: CIS 308.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 490 - Special Topics in Computer Science</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(2-4)</p>
+                                    <hr/>
+                                    <p>Current topics in computer science.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Repeatable.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: Varies with the announced topic.
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 499 - Honors Research/Thesis</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(2-4)</p>
+                                    <hr/>
+                                    <p>Individual research problem selected with approval of faculty advisor. A report/thesis is presented orally and in writing during the last semester.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Repeatable.
+                        <br/>
+                                    <br/>
+                        Open to students in the College of Engineering honors program and to seniors in the College of Arts and Sciences honors program.
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 501 - Software Architecture and Design</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Principles and patterns for design and structure of software, development of object-oriented models, examples of software architecture.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 300. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 505 - Introduction to Programming Languages</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>History, programming language concepts including type, scope and extent, abstraction mechanisms and control; programming paradigms, including one or more of logic, functional, and object-oriented programming, and programming languages supporting the selected paradigms; interpreters, compilers and virtual machines for the selected languages; storage management and garbage collection; type checking and type inference.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 300, CIS 301. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 520 - Operating Systems I</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Operating systems concepts, services, and implementation: interrupt processing, processes, concurrency, deadlocks, resource scheduling and system structure; resource management: real and virtual storage, input/output systems, disk scheduling and file systems; design and construction of concurrent programs.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 450 or ECE 431; CIS 308, and CIS 501. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 521 - Real-Time Programming Laboratory</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Project-oriented introduction to asynchronous processes and related systems software: device drivers, event-driven operations, hierarchical and time-sliced process scheduling, spooling operations, interjob and intermachine communications. Projects will be built on a single-use environment.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: ECE 241 and CIS 350, concurrent enrollment CIS 520. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 522 - Introduction to Data Structures</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(1)</p>
+                                    <hr/>
+                                    <p>Introduction to basic data structures such as stacks, queues, lists, and priority queues, and algorithmic techniques for sorting, searching and hashing. Emphasis on modularity and reuse. Introduction to the concept of object-oriented design and interface specifications.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Three hours recitation a week. Course meets in one contiguous block of five weeks.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: C, or C++ programming.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 523 - Introduction to Concurrent Programming</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(1)</p>
+                                    <hr/>
+                                    <p>Introduction to concurrent programming techniques based on message passing primitives (send/receive) and shared memory (semaphore based P/V operations and monitor-based wait/signal operations).
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Three hours recitation a week. Course meets in one contiguous block of five weeks.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: C, or C++ programming and CIS 300 or CIS 522. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 525 - Telecommunications and Data Communication Systems</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Basic concepts including OSI 7 layer model, data transmission methods, medium access, link control, connections management; network applications including electronic mail, file transfer, distributed computing, window systems; network management including OSI and Internet management frameworks.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 300. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 526 - Web Interface Design</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Fundamental principles and best practices of interface design, web service design, advanced web interfaces, web development frameworks, web standards and accessibility issues.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 501, CMST 135. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 530 - Introduction to Artificial Intelligence</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Fundamental background in intelligent systems for undergraduate students. Intelligent agents, problem-solving, uninformed and informed (heuristic) search, game tree search, foundations of knowledge representation and reasoning using logic and probability, and a first introduction to planning and machine learning. AI topics include the problem areas of natural language processing (NLP) and perception and methodologies such as artificial neural networks and genetic and evolutionary computation. Applications to practical design and development of intelligent systems will be emphasized, leading to individual projects on current topics and applications in AI.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Three hours lecture a week.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 300, CIS 301 and MATH 312 or 510. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 536 - Introduction to Computer Graphics</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Introduction to computer graphics for undergraduate students. Mathematical foundations (e.g., linear, affine, and projective transformations) and fundamental topics in realistic rendering: view normalization, clipping and culling, scan conversion of lines and polygons, shading and illumination, texture mapping, user interfaces, picking, and collision handling. Intermediate topics include shaders, procedural textures, particle systems, basics of animation, fractals, color theory, and ray tracing.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Three (3) hours lecture a week.
+                        <br/>
+                                    <br/>
+                        Not available for credit to students with credit in CIS 636.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 308 and either MATH 205 or MATH 220. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 540 - Software Engineering Project I</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>The first semester of a two-semester capstone course. Current practices of software development, requirements, design, prototyping, measures and evaluation. Specification, design, and prototyping of a software system.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Not available for credit to students with credit in CIS 543.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 308, 501, and STAT 325 or 510. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 541 - Software Engineering Project II</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Continuation of CIS 540. Final implementation, integration, and testing of a software system. Introduction to configuration management, project management, and software maintenance.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 540 (which must be taken in the preceding semester). Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 543 - Software Engineering Design Project</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Current practices of software development, requirements, design, prototyping, measures and evaluations. Specification, design, and prototyping of a software system.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Not available for credit to students with credit in CIS 540.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 308, 501, and STAT 325 or 510. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 544 - Advanced Software Design and Development</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Advanced concepts and practicum in object-oriented analysis, modeling, design, implementation, testing, and use of CASE tools; relationships among structural, static, and dynamic models; relationship among conceptual, system, and implementation models.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Not available for credit to students with credit in CIS 744.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 501. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring, Summer
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 548 - Software Management</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Topics related to the management of software, including organization, project planning, process models, life cycle models, TQM, software quality assurance, cost estimation, configuration management.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 562. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring, Summer
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 551 - Introduction to Computer and Information Security</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>An introduction to computer and information security, including common attack techniques, application of cryptography in security, authentication and authorization, network security, enterprise network defense, web security, and analysis of design flaws that render a system vulnerable. Course projects provide hands-on experience on both the defense and offense aspects in cyberspace.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Three hours recitation a week.
+                        <br/>
+                                    <br/>
+                        Not available for credit to students with credit in CIS 751.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 450 or 520. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 553 - Intro Applied Cryptography</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Introduction to the fundamentals of cryptography, including mathematical background, classical ciphers, public key encryption, block and stream ciphers, cryptographic hash functions, digital signatures, common attacks, and basic security protocols.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Three hours recitation a week.
+                        <br/>
+                                    <br/>
+                        Not available for credit to students with credit in CIS 753.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 300, MATH 510. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 560 - Database System Concepts</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Concepts, approaches, and techniques in database management. Representation of information as data, data storage techniques, foundations of logical data models, data retrieval, database design, transaction management, integrity and security.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Three hours lecture a week.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 300, CIS 301, and MATH 312 or 510. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 562 - Enterprise Information Systems</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Conceptual models for E-Commerce and for business applications, database management systems, relational data model, normal forms, query language, security features, web access and scripting languages, development process and management, issues in management of enterprise information systems.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 501. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 570 - Introduction to Formal Language Theory</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Formal languages, automata, regular expressions, grammars, introduction to computability theory. Reading and writing informal mathematical proofs pertaining to these topics.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: MATH 510. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 575 - Introduction to Algorithm Analysis</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>An introduction to mathematical analysis of time- and space-complexity of algorithms, including worst-case, average-case, and amortized complexity. An examination of various algorithmic designs, such as greedy algorithms, divide-and-conquer algorithms, and dynamic programming algorithms. Techniques for proving correctness of algorithms.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 300, CIS 301, and MATH 510.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 580 - Fundamentals of Game Programming</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Fundamental principles of programming games. Foundational game algorithms and data structures. Two-dimensional graphics and physics simulation. Development for multiple platforms. Utilization of game programming libraries. Design of multiple games incorporating topics covered.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Three hours lecture a week.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 501, MATH 221 and prerequisite or concurrent enrollment: PHYS 213 or PHYS 223.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Aesthetic Interpretation
+                        <br/>
+                        Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 585 - Game Engine Design</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Current practices of game engine development. The game engine as a soft real-time multi-agent simulation.  Three-dimensional graphics and animation techniques, scene management, physics simulation, event systems, resource management, and network game architectures.  Design and prototyping of a general use game engine.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 580 and MATH 551.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 590 - Special Topics in Computer Science</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(1-4)</p>
+                                    <hr/>
+                                    <p>Selected topics in computer science.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Repeatable.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: Permission of instructor.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> On sufficient demand
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 597 - Information Systems Project</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Directed studies: selection and completion of a project; may include collaboration with other students; may include design, analysis, and implementation. Completion of a plan, two progress reviews, and a final report with literature review and project evaluation.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 562 and senior standing in information systems. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 598 - Computer Science Project</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Directed studies: selection, investigation and report on some topic not covered in prior courses; may include an implementation and/or experimentation component; may be done in collaboration with other students. Completion of a plan, two reviews, and a final report with literature review and project evaluation.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 560 and senior standing in computer science. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 604 - Set Theory and Logic for CS</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Informal and axiomatic set theory, propositional and predicate logic, proof techniques.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: Graduate standing.
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 621 - Real-Time Programming Fundamentals</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(1)</p>
+                                    <hr/>
+                                    <p>Relationship between C/C++ constructs and corresponding assembly code generated by compilers. Introduction to special techniques used to implement micro-controllers, such as initialization of programmable CPU modules/peripheral devices, techniques to link assembly and C/C++ codes, producing ROM-able code, and EPROM burning/Flash programming.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Three hours recitation a week. Course meets in one contiguous block of five weeks.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: C or C ++ programming, and CIS 523 and either CIS 300 or CIS 522. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 622 - Real-Time Operating Systems</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(1)</p>
+                                    <hr/>
+                                    <p>Basic real-time operating systems concepts and services; interrupt processing; process and thread models; real-time software architectures and development environments. Detailed study of design and implementation of real-time applications using real-time operating systems.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Three hours recitation per week. Course meets in one contiguous block of five weeks.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 621. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 625 - Concurrent Software Systems</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Architecture, design, modeling, implementation, and verification of concurrent, parallel, and distributed software; aspects such as real-time programming, parallel simulation; fault-tolerant programming; grid computing, embedded systems control.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 501. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 635 - Introduction to Computer-Based Knowledge Systems</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Introduction to the applications of artificial intelligence concepts to solving knowledge-dependent tasks. Review of knowledge-representation ideas. Survey of expert system design. Introduction to existing knowledge-based tools available on personal computers. Development of an intelligent system.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 300. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 636 - Introduction to Computer Graphics</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Devices and software for graphics display and user interaction, development of software for direct graphic manipulation applications.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 300. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 638 - Multimedia Systems</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Introduction to computer graphics devices, user interaction; history and scope; multimedia structure, encoding methods and standards, mark-up and scripting languages, software tools, and applications; readings in current literature; class presentation; multimedia project.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 300, senior standing. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 640 - Software Testing Techniques</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Survey of software testing methodologies; evaluation of software testing strategies; experience in a variety of software testing practices.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 501. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 645 - Software Development Environments</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Survey of current development environments and/or an in-depth study of one development environment.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 501. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> On sufficient demand
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 690 - Implementation Project</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>The department will suggest various design or implementation projects for individuals or groups in areas such as translators, interpreters, microprogramming, minicomputer operating systems, graphics, numerical software, etc.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Repeatable.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: Junior standing.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall, Spring, Summer
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> Empirical and Quantitative Reasoning
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 697 - Seminar in Computer Science</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(1-3)</p>
+                                    <hr/>
+                                    <strong>Requisites</strong>
+                                    <br/>
+                                    <p>Prerequisite: Junior standing.
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 705 - Programming Languages</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Programming language concepts, including typing, scoping, abstraction and exceptions; programming paradigms, including one or more of logic, functional, object-oriented and concurrent programming, and programming languages supporting the selected paradigms; introduction to programming language semantics; programming language design; development environments.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 505 and MATH 510. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 706 - Translator Design I</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Compilers and interpreters, including description of languages, finite state scanners. LL(1) parsing, symbol tables, syntax-directed semantics, simple code generation. Constructing a simple compiler.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 501, and CIS 605. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 710 - Computer Simulation Experiments</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Principles of digital computer simulation; discrete simulation method, statistics of simulations; implementations.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 300. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> On sufficient demand
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 720 - Advanced Operating Systems</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Process synchronization and communication, distributed programming primitives, transactions and concurrency control, distributed scheduling, distributed storage, deadlock, security.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 520. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 721 - Real-Time Systems</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>The design of hard real-time embedded systems, including language and operating system support, scheduling, schedulability analysis, fault tolerance, and design tools.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 520 or both CIS 622 and ECE 633. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 722 - Operating System Practices</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Structure and functions of modern operating systems. Emphasis on reading and modifying the source code of a working operating system. This includes memory management, input/output, process management, file systems, and network interconnection software construction.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 520. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 725 - Advanced Computer Networks</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Network algorithms; routing and congestion control; protocol engineering; protocol decomposition, specification and verification, synthesis; protocols for high speed networks; parallel implementations, light-weight protocols.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 520, and CIS 525. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 726 - Advanced World Wide Web Technologies</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>An advanced course on the technologies that make up the World Wide Web. WWW site designs and analysis, WWW software architecture, server-side technologies, dynamic executable scheduling, digital libraries, WWW security.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 520, CIS 525. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 730 - Principles of Artificial Intelligence</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Introduction to the fundamental concepts and techniques of AI: problem solving, search and planning, knowledge representation and qualitative reasoning, expert systems, natural language processing and cognitive modeling, computer vision, and machine learning.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 501. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 732 - Machine Learning and Pattern Recognition</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Theory and methodology of inductive learning, including decision trees, artificial neural networks, probabilistic and instance-based learning, and inductive logic programming; unsupervised and reinforcement learning, bagging and boosting; genetic algorithms and genetic programming; and applications to data mining.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 501 or CIS 575.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 734 - Introduction to Genomics and Bioinformatics</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(4)</p>
+                                    <hr/>
+                                    <p>A problem solving approach to understanding genomics and bioinformatics. Practical use of databases and web-based tools used to study biological problems. Introduction to the algorithms behind these tools.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Three hours lecture and one-and-a-half hours lab a week.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: Either BIOL 450 or CIS 300, and instructor permission. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring, even years
+                        <br/>
+                                    <br/>
+                                    <strong>Cross-listed</strong>
+                                    <br/> BIOL 734
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 736 - Computer Graphics</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Topics in computer representation and display of images and graphic interaction.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 308. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 740 - Software Engineering</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Software life cycle, requirements, specifications, design, validation, measures, and maintenance.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 540. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 744 - Advanced Software Analysis and Design</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Advanced concepts and practicum in object-oriented analysis, modeling, design, implementation, testing, and use of CASE tools; relationships among structural, static, and dynamic models; relationship among conceptual, system, and implementation models.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Not available for credit to students with credit in CIS 544.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 540. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring, Summer
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 746 - Software Measurement</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Measurement theory; development, validation and use of software measures; software measures in the life cycle, including cost estimation, design measures, software complexity and software reliability.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 540. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 748 - Advanced Software Management</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Topics related to the management of software, including organization, project planning, process models, life cycle models, TQM, software quality assurance, cost estimation, configuration management.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 740. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring, Summer
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 750 - Advanced Computer Architecture Experiments</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Characteristics of various computers including those with execution support of multiprocessing, multiprogramming, microprogrammable, high-level language, stack processing, and communication architectures.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Two hours lecture and three hours lab a week.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 450. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> On sufficient demand
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 751 - Computer and Information Security</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>A comprehensive coverage of computer and information security. Basic cryptography, access control, authentication, authorization, network security, software security, and social aspects of security. The lectures discuss when and where things can go wrong and how design flaws in a system can be exploited to compromise security. Common attack techniques are introduced, and students have the opportunity to work on course projects that cover both the defense and offense aspects in cyberspace.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Not available for credit to students with credit in CIS 551.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 450 or 520. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 753 - Applied Cryptography</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Fundamentals of cryptography, including mathematical background, classical ciphers, public key encryption, block and stream ciphers, cryptographic hash functions, digital signatures, common attacks, and basic network security.
+                        <br/>
+                                    <br/>
+                                    <strong>Note</strong>
+                                    <br/> Three hours recitation a week.
+                        <br/>
+                                    <br/>
+                        Not available for credit to students with credit in CIS 553.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 300, MATH 510, or equivalent. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 755 - Advanced Computer and Information Security</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>In-depth coverage of advanced theoretical and practical security techniques with emphasis on construction of new systems and auditing and repair of existing security-critical systems using rigorous design, risk analysis, and engineering methods and application of state-of-art theoretical tools.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisites: CIS 551 or CIS 751. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Spring
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 761 - Data Base Management Systems</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Data models and languages, hierarchical, network, relational systems; implementation and operational requirements; programming projects using data base management systems.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 560, CIS 604. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 762 - Office Automation</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Characteristics of information work; modeling systems for characterizing aspects of office environment; form-based systems; office automation and description languages, ergonomics, local area networks and tools used in the automation of offices.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 525, 560. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 764 - Database Design</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Conceptual, logical, physical, and user interface design for database management systems.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 501. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> On sufficient demand
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 770 - Formal Language Theory</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Regular languages, finite automata, context-free languages, pushdown automata, context-sensitive languages, linear bounded automata, recursively enumerable languages, Turing machines.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: MATH 510. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 771 - Software Specification</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Formal logic or specification of software components; algebraic vs. model-based specifications; common abstract types; verification of properties of specifications; introduction to specification of concurrent systems.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 301. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 775 - Analysis of Algorithms</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(3)</p>
+                                    <hr/>
+                                    <p>Study and application of techniques and procedures used in the analysis of algorithms including the worst and average cases of both time and space. Study of the P and NP classes.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: CIS 575. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
+                        <br/>
+                                    <br/>
+                                    <strong>When Offered</strong>
+                                    <br/> Fall
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    <li>
+                                    <div style="float: right">
+                                    <p> </p>
+                                    </div>
+                                    <a
+                                    href="javascript:acalogPopup('/mime/download.?catoid=13&amp;ftype=3&amp;foid=',%20'view_flashpoint',%20770,%20530,%20'yes')" style="float:right"/>
+                                    <h3>CIS 798 - Topics in Computer Science</h3>
+                                    <strong>Credits:</strong>
+                                    <p>(Variable)</p>
+                                    <hr/>
+                                    <strong>Note</strong>
+                                    <br/>
+                                    <p>Repeatable.
+                        <br/>
+                                    <br/>
+                                    <strong>Requisites</strong>
+                                    <br/> Prerequisite: Prerequisite varies with the announced topic.
+                        <br/>
+                                    <br/>
+                                    <strong>UGE course</strong>
+                                    <br/> No
+                        <br/>
+                                    <br/>
+                                    <strong>K-State 8</strong>
+                                    <br/> None
+                        <br/>
+                                    <br/>
+                                    </p>
+                                    </li>
+                                    </ul>

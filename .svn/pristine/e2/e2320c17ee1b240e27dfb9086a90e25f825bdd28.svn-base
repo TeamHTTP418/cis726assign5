@@ -1,0 +1,8 @@
+<degreeprograms>
+<htmlparse.DegreeProgram><id>1</id><name>CIS - B.S. in Computer Science (Computer Science Option)</name><description>This is the degree program for Computer Science</description></htmlparse.DegreeProgram>
+<htmlparse.DegreeProgram><id>2</id><name>CIS - B.S. in Computer Science (Software Engineering Option)</name><description>This is the degree program for Software Engineering</description></htmlparse.DegreeProgram>
+<htmlparse.DegreeProgram><id>3</id><name>CIS - B.S. in Information Systems</name><description>This is the degree program for Information Systems</description></htmlparse.DegreeProgram>
+<htmlparse.DegreeProgram><id>4</id><name>CIS - M.S. in Computer Science</name><description>This is the masters degree program for Computer Science</description></htmlparse.DegreeProgram>
+<htmlparse.DegreeProgram><id>5</id><name>CIS - M.S. in Software Engineering</name><description>This is the masters degree program for Software Engineering</description></htmlparse.DegreeProgram>
+<htmlparse.DegreeProgram><id>6</id><name>CIS - Ph.D. in Computer Science</name><description>This is the doctoral program for Computer Science</description></htmlparse.DegreeProgram>
+</degreeprograms>

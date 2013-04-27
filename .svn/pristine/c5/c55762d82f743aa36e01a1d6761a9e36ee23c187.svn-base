@@ -1,0 +1,4 @@
+﻿@model CIS726_Assignment2.Models.RequiredCourse
+<div>
+    <strong>Semester @Html.DisplayFor(model => model.semester):</strong> @Html.ActionLink(Model.course.courseHeader, "Details", "Courses", new { id = Model.courseID }, null) (@Html.DisplayFor(model => model.course.courseHours))
+</div>

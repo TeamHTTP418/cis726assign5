@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MessageParser
+{
+    interface MessageParser<T>
+    {
+        List<T> GetItemByID(int id);
+        List<T> GetItemByClause(Func<T, bool> predicate);
+        List<T> GetAll();
+    }
+}

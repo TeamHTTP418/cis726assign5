@@ -1,0 +1,4 @@
+﻿@model MessageParser.Models.ElectiveCourse
+<div>
+    <strong>Semester @Html.DisplayFor(model => model.semester):</strong> @Html.ActionLink(Model.electiveList.electiveListName, "Details", "ElectiveLists", new { id = Model.electiveListID }, null) (@Html.DisplayFor(model => model.credits))
+</div>

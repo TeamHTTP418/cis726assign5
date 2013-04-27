@@ -1,0 +1,58 @@
+﻿@model MessageParser.Models.Course
+
+
+@Html.ValidationSummary(true)
+<fieldset>
+    <legend>Basic Course Information</legend>
+    <ol>
+        <li>
+            @Html.LabelFor(model => model.coursePrefix)
+            @Html.EditorFor(model => model.coursePrefix)
+            @Html.ValidationMessageFor(model => model.coursePrefix)
+        </li>
+        <li>
+            @Html.LabelFor(model => model.courseNumber)
+            @Html.EditorFor(model => model.courseNumber)
+            @Html.ValidationMessageFor(model => model.courseNumber)
+        </li>
+        <li>
+            @Html.LabelFor(model => model.courseTitle)
+            @Html.EditorFor(model => model.courseTitle)
+            @Html.ValidationMessageFor(model => model.courseTitle)
+        </li>
+        <li>
+            @Html.LabelFor(model => model.minHours)
+            @Html.EditorFor(model => model.minHours)
+            @Html.ValidationMessageFor(model => model.minHours)
+        </li>
+        <li>
+            @Html.LabelFor(model => model.maxHours)
+            @Html.EditorFor(model => model.maxHours)
+            @Html.ValidationMessageFor(model => model.maxHours)
+        </li>
+        <li>
+            @Html.LabelFor(model => model.variable)
+            @Html.EditorFor(model => model.variable)
+            @Html.ValidationMessageFor(model => model.variable)
+        </li>
+        <li>
+            @Html.LabelFor(model => model.undergrad)
+            @Html.EditorFor(model => model.undergrad)
+            @Html.ValidationMessageFor(model => model.undergrad)
+        </li>
+        <li>
+            @Html.LabelFor(model => model.graduate)
+            @Html.EditorFor(model => model.graduate)
+            @Html.ValidationMessageFor(model => model.graduate)
+        </li>
+    </ol>
+</fieldset>
+<fieldset>
+    <legend>Description</legend>
+    <ol>
+        <li>
+            @Html.EditorFor(model => model.courseDescription)
+            @Html.ValidationMessageFor(model => model.courseDescription)
+        </li>
+    </ol>
+</fieldset>

@@ -1,0 +1,56 @@
+﻿@model CIS726_Assignment2.Models.Plan
+
+@{
+    ViewBag.Title = "Create a Plan of Study";
+}
+
+<div class="contentbox">
+    <div class="liquid_100">
+        <h2>Edit Plan of Study: @Html.DisplayFor(model => model.planName)</h2>
+        <h4 class="warning">Clicking Save on this page will reset any customizations you've made to your plan of study!</h4>
+@using (Html.BeginForm("Edit", "Plans", FormMethod.Post, new { @id = "editform" }))
+{
+        @Html.ValidationSummary(true)
+        @Html.HiddenFor(model => model.ID)
+        <fieldset>
+            <legend>Basic Plan of Study Information</legend>
+            <ol>
+                <li>
+                    @Html.LabelFor(model => model.planName)
+                    @Html.EditorFor(model => model.planName)
+                    @Html.ValidationMessageFor(model => model.planName)
+                </li>
+                <li>
+                    @Html.LabelFor(model => model.degreeProgramID, "Degree Program")
+                    @Html.DropDownList("degreeProgramID", String.Empty)
+                    @Html.ValidationMessageFor(model => model.degreeProgramID)
+                </li>
+            @if(ViewBag.Advisor == true){
+                <li>
+                    @Html.LabelFor(model => model.userID, "Username")
+                    @Html.DropDownList("userID", String.Empty)
+                    @Html.ValidationMessageFor(model => model.userID)
+                </li>
+            }else{
+                    @Html.Hidden("userID", (object)ViewBag.userID)
+            }   
+                <li>
+                    @Html.LabelFor(model => model.semesterID, "Starting Semester")
+                    @Html.DropDownList("semesterID", String.Empty)
+                    @Html.ValidationMessageFor(model => model.semesterID)
+                </li>
+            </ol>
+        </fieldset>
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+}
+        <p>
+            @Html.ActionLink("Back to Plan of Study List", "Index")
+        </p>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

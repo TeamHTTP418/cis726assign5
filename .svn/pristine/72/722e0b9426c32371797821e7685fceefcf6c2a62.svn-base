@@ -1,0 +1,115 @@
+namespace CIS726_Assignment2.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class ChangeIDFieldsToGenericNameMig : DbMigration
+    {
+        public override void Up()
+        {
+            CreateTable(
+                "dbo.Courses",
+                c => new
+                    {
+                        ID = c.Int(nullable: false, identity: true),
+                        coursePrefix = c.String(nullable: false, maxLength: 5),
+                        courseNumber = c.Int(nullable: false),
+                        courseTitle = c.String(nullable: false),
+                        courseDescription = c.String(nullable: false),
+                        minHours = c.Int(nullable: false),
+                        maxHours = c.Int(nullable: false),
+                        undergrad = c.Boolean(nullable: false),
+                        graduate = c.Boolean(nullable: false),
+                        variable = c.Boolean(nullable: false),
+                    })
+                .PrimaryKey(t => t.ID);
+            
+            CreateTable(
+                "dbo.ElectiveListCourses",
+                c => new
+                    {
+                        ID = c.Int(nullable: false, identity: true),
+                        courseID = c.Int(nullable: false),
+                        electiveListID = c.Int(nullable: false),
+                    })
+                .PrimaryKey(t => t.ID)
+                .ForeignKey("dbo.ElectiveLists", t => t.electiveListID, cascadeDelete: true)
+                .ForeignKey("dbo.Courses", t => t.courseID, cascadeDelete: true)
+                .Index(t => t.electiveListID)
+                .Index(t => t.courseID);
+            
+            CreateTable(
+                "dbo.ElectiveLists",
+                c => new
+                    {
+                        ID = c.Int(nullable: false, identity: true),
+                        electiveListName = c.String(nullable: false),
+                    })
+                .PrimaryKey(t => t.ID);
+            
+            CreateTable(
+                "dbo.ElectiveCourses",
+                c => new
+                    {
+                        ID = c.Int(nullable: false, identity: true),
+                        electiveListID = c.Int(nullable: false),
+                        degreeProgramID = c.Int(nullable: false),
+                        semester = c.Int(nullable: false),
+                        credits = c.Int(nullable: false),
+                    })
+                .PrimaryKey(t => t.ID)
+                .ForeignKey("dbo.ElectiveLists", t => t.electiveListID, cascadeDelete: true)
+                .ForeignKey("dbo.DegreePrograms", t => t.degreeProgramID, cascadeDelete: true)
+                .Index(t => t.electiveListID)
+                .Index(t => t.degreeProgramID);
+            
+            CreateTable(
+                "dbo.DegreePrograms",
+                c => new
+                    {
+                        ID = c.Int(nullable: false, identity: true),
+                        degreeProgramName = c.String(nullable: false),
+                        degreeProgramDescription = c.String(),
+                    })
+                .PrimaryKey(t => t.ID);
+            
+            CreateTable(
+                "dbo.RequiredCourses",
+                c => new
+                    {
+                        ID = c.Int(nullable: false, identity: true),
+                        courseID = c.Int(nullable: false),
+                        degreeProgramID = c.Int(nullable: false),
+                        semester = c.Int(nullable: false),
+                    })
+                .PrimaryKey(t => t.ID)
+                .ForeignKey("dbo.DegreePrograms", t => t.degreeProgramID, cascadeDelete: true)
+                .ForeignKey("dbo.Courses", t => t.courseID, cascadeDelete: true)
+                .Index(t => t.degreeProgramID)
+                .Index(t => t.courseID);
+            
+        }
+        
+        public override void Down()
+        {
+            DropIndex("dbo.RequiredCourses", new[] { "courseID" });
+            DropIndex("dbo.RequiredCourses", new[] { "degreeProgramID" });
+            DropIndex("dbo.ElectiveCourses", new[] { "degreeProgramID" });
+            DropIndex("dbo.ElectiveCourses", new[] { "electiveListID" });
+            DropIndex("dbo.ElectiveListCourses", new[] { "courseID" });
+            DropIndex("dbo.ElectiveListCourses", new[] { "electiveListID" });
+            DropForeignKey("dbo.RequiredCourses", "courseID", "dbo.Courses");
+            DropForeignKey("dbo.RequiredCourses", "degreeProgramID", "dbo.DegreePrograms");
+            DropForeignKey("dbo.ElectiveCourses", "degreeProgramID", "dbo.DegreePrograms");
+            DropForeignKey("dbo.ElectiveCourses", "electiveListID", "dbo.ElectiveLists");
+            DropForeignKey("dbo.ElectiveListCourses", "courseID", "dbo.Courses");
+            DropForeignKey("dbo.ElectiveListCourses", "electiveListID", "dbo.ElectiveLists");
+            DropTable("dbo.RequiredCourses");
+            DropTable("dbo.DegreePrograms");
+            DropTable("dbo.ElectiveCourses");
+            DropTable("dbo.ElectiveLists");
+            DropTable("dbo.ElectiveListCourses");
+            DropTable("dbo.Courses");
+        }
+    }
+}

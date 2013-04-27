@@ -1,0 +1,44 @@
+﻿@model CIS726_Assignment2.Models.DegreeProgram
+
+@Html.ValidationSummary(true)
+        <fieldset>
+            <legend>Basic Degree Program Information</legend>
+            <ol>
+                <li>
+                    @Html.LabelFor(model => model.degreeProgramName)
+                    @Html.EditorFor(model => model.degreeProgramName)
+                    @Html.ValidationMessageFor(model => model.degreeProgramName)
+                </li>
+            </ol>
+        </fieldset>
+        <fieldset>
+            <legend>Description</legend>
+            <ol>
+                <li>
+                    @Html.EditorFor(model => model.degreeProgramDescription)
+                    @Html.ValidationMessageFor(model => model.degreeProgramDescription)
+                </li>
+            </ol>
+        </fieldset>
+        <fieldset>
+            <legend><h2>Required Courses</h2></legend>
+            <div id="requiredcourses" data-degreeprogramid="@Model.ID">
+                @if(Model.requiredCourses != null && Model.requiredCourses.Count > 0){
+                    foreach(CIS726_Assignment2.Models.RequiredCourse item in Model.requiredCourses){
+                        @Html.Partial("RequiredCourseFormPartial", item);
+                    }
+                }
+            </div>
+            <a id="addRequiredCourse" href="#">Add a Required Course</a>
+        </fieldset>
+        <fieldset>
+            <legend><h2>Elective Courses</h2></legend>
+            <div id="electivecourses" data-degreeprogramid="@Model.ID">
+                @if(Model.electiveCourses != null && Model.electiveCourses.Count > 0){
+                    foreach(CIS726_Assignment2.Models.ElectiveCourse item in Model.electiveCourses){
+                        @Html.Partial("ElectiveCourseFormPartial", item)
+                    }
+                }
+            </div>
+            <a id="addElectiveCourse" href="#">Add an Elective Course</a>
+        </fieldset>

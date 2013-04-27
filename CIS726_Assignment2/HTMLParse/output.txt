@@ -1,0 +1,839 @@
+new Course
+{
+	courseID = 0,
+	coursePrefix = "CIS",
+	courseNumber = "015",
+	courseTitle = "Undergraduate Seminar",
+	courseDescription = "Presentation of professional problems and practices by students, faculty, and industry professionals associated with computing and information sciences.",
+	courseHours = "0"
+},
+
+new Course
+{
+	courseID = 1,
+	coursePrefix = "CIS",
+	courseNumber = "101",
+	courseTitle = "Introduction to Computing Systems, Information Search, and Security",
+	courseDescription = "Introduction to basic computer and Internet security including basic computer security and privacy issues, computer networks, malware protection; effective use of the Internet as a resource including website evaluation and effective search tools and techniques.",
+	courseHours = "1"
+},
+
+new Course
+{
+	courseID = 2,
+	coursePrefix = "CIS",
+	courseNumber = "102",
+	courseTitle = "Introduction to Spreadsheet Applications",
+	courseDescription = "Designing, building, and modifying spreadsheets. Addressing techniques and formatting. Use of formulas and functions. Spreadsheets as management and decision tools. Charting of data.",
+	courseHours = "1"
+},
+
+new Course
+{
+	courseID = 3,
+	coursePrefix = "CIS",
+	courseNumber = "103",
+	courseTitle = "Introduction to Database Applications",
+	courseDescription = "Design, create, modify, and maintain relational databases. Create relationships. Add and modify data. Search and query database. Design and create screen forms and reports.",
+	courseHours = "1"
+},
+
+new Course
+{
+	courseID = 4,
+	coursePrefix = "CIS",
+	courseNumber = "104",
+	courseTitle = "Introduction to Word Processing Applications",
+	courseDescription = "Basic features of word processing. Create and edit a document. View, format, and customize document. Revise, update, and rearrange text. Add graphics. Support features. Merge documents.",
+	courseHours = "1"
+},
+
+new Course
+{
+	courseID = 5,
+	coursePrefix = "CIS",
+	courseNumber = "105",
+	courseTitle = "Introduction to Computer Programming",
+	courseDescription = "An introduction to computer problem solving; basic programming logic; algorithms; control structures; and data structures. The focus is on the control flow of programming with an elementary introduction to object-oriented design. Upon successful completion of the course, students should be able to write simple computer programs.",
+	courseHours = "1"
+},
+
+new Course
+{
+	courseID = 6,
+	coursePrefix = "CIS",
+	courseNumber = "111",
+	courseTitle = "Introduction to Computer Programming",
+	courseDescription = "Introduction to programming. Principles and applications of programming fundamentals: state, control structures, methods, and arrays. Programming projects.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 7,
+	coursePrefix = "CIS",
+	courseNumber = "115",
+	courseTitle = "Introduction to Computing Science",
+	courseDescription = "A survey of the discipline of Computing Science and its interaction with other disciplines, incorporating historical development, theories, and tools of Computing Science (algorithm design and programming). Topics include: mechanical computers, digital computers, bioinformatics, microcontrollers, robotics, security, scientific computing, simulation, and web technologies.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 8,
+	coursePrefix = "CIS",
+	courseNumber = "190",
+	courseTitle = "Undergraduate Seminar in Computing and Information Sciences",
+	courseDescription = "Topics of special interest in computing and information sciences.",
+	courseHours = "1-3"
+},
+
+new Course
+{
+	courseID = 9,
+	coursePrefix = "CIS",
+	courseNumber = "200",
+	courseTitle = "Programming Fundamentals",
+	courseDescription = "Principles of algorithm design and their application to procedural programming: state, control structures, methods. Patterns of conditional and iterative control structure.  Program testing. Introduction to arrays, classes, and objects.  Programming projects.",
+	courseHours = "4"
+},
+
+new Course
+{
+	courseID = 10,
+	coursePrefix = "CIS",
+	courseNumber = "209",
+	courseTitle = "C Programming for Engineers",
+	courseDescription = "Application of computers to engineering problems. Abstraction and problem solving; algorithms; control structures; input/output; functions; arrays and array processing.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 11,
+	coursePrefix = "CIS",
+	courseNumber = "300",
+	courseTitle = "Data and Program Structures",
+	courseDescription = "A study of common data and program structures together with associated algorithms. Topics include interfaces, design patterns, arrays, stacks, queues, lists, trees, hash tables, recursion, binary search, and tree traversals. Experience with both use and implementation of these structures and algorithms using a modern programming language. Discussion of tradeoffs involving performance and software maintainability.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 12,
+	coursePrefix = "CIS",
+	courseNumber = "301",
+	courseTitle = "Logical Foundations of Programming",
+	courseDescription = "Logical formalisms used to model and reason about computer systems. Propositional and predicate logic, syntax, semantics, and proof theory; soundness and completeness issues. Mathematical induction. Program verification: invariants and program logics.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 13,
+	coursePrefix = "CIS",
+	courseNumber = "308",
+	courseTitle = "C/C++ Language Laboratory",
+	courseDescription = "Fundamentals of programming in C and C++; applications.",
+	courseHours = "1"
+},
+
+new Course
+{
+	courseID = 14,
+	coursePrefix = "CIS",
+	courseNumber = "362",
+	courseTitle = "Introduction to Business Programming",
+	courseDescription = "An introduction to basic business programming techniques including file manipulation operations and sorting. The COBOL language will be used as an implementation tool.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 15,
+	coursePrefix = "CIS",
+	courseNumber = "397",
+	courseTitle = "Honors Seminar in Computer Science",
+	courseDescription = "",
+	courseHours = "1-3"
+},
+
+new Course
+{
+	courseID = 16,
+	coursePrefix = "CIS",
+	courseNumber = "415",
+	courseTitle = "Computers and Society",
+	courseDescription = "A study of the impact of computers and associated technologies on society, including such topics as ethics of computer use, computer fraud, protection of privacy; legal, moral, and public policy-making responsibility of computer professionals.",
+	courseHours = "1"
+},
+
+new Course
+{
+	courseID = 17,
+	coursePrefix = "CIS",
+	courseNumber = "450",
+	courseTitle = "Computer Architecture and Operations",
+	courseDescription = "Introduction to modern computer architectures: register transfer abstraction, addressing modes, basic operations (data transfer, arithmetic/logic, and control operations). Basic Operating System concepts and operations. Understanding relationships of higher-level language constructs to corresponding assembly instruction sequences generated by compilers. Introduction to interrupts and low-level I/O operations.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 18,
+	coursePrefix = "CIS",
+	courseNumber = "490",
+	courseTitle = "Special Topics in Computer Science",
+	courseDescription = "Current topics in computer science.",
+	courseHours = "2-4"
+},
+
+new Course
+{
+	courseID = 19,
+	coursePrefix = "CIS",
+	courseNumber = "499",
+	courseTitle = "Honors Research/Thesis",
+	courseDescription = "Individual research problem selected with approval of faculty advisor. A report/thesis is presented orally and in writing during the last semester.",
+	courseHours = "2-4"
+},
+
+new Course
+{
+	courseID = 20,
+	coursePrefix = "CIS",
+	courseNumber = "501",
+	courseTitle = "Software Architecture and Design",
+	courseDescription = "Principles and patterns for design and structure of software, development of object-oriented models, examples of software architecture.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 21,
+	coursePrefix = "CIS",
+	courseNumber = "505",
+	courseTitle = "Introduction to Programming Languages",
+	courseDescription = "History, programming language concepts including type, scope and extent, abstraction mechanisms and control; programming paradigms, including one or more of logic, functional, and object-oriented programming, and programming languages supporting the selected paradigms; interpreters, compilers and virtual machines for the selected languages; storage management and garbage collection; type checking and type inference.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 22,
+	coursePrefix = "CIS",
+	courseNumber = "520",
+	courseTitle = "Operating Systems I",
+	courseDescription = "Operating systems concepts, services, and implementation: interrupt processing, processes, concurrency, deadlocks, resource scheduling and system structure; resource management: real and virtual storage, input/output systems, disk scheduling and file systems; design and construction of concurrent programs.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 23,
+	coursePrefix = "CIS",
+	courseNumber = "521",
+	courseTitle = "Real-Time Programming Laboratory",
+	courseDescription = "Project-oriented introduction to asynchronous processes and related systems software: device drivers, event-driven operations, hierarchical and time-sliced process scheduling, spooling operations, interjob and intermachine communications. Projects will be built on a single-use environment.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 24,
+	coursePrefix = "CIS",
+	courseNumber = "522",
+	courseTitle = "Introduction to Data Structures",
+	courseDescription = "Introduction to basic data structures such as stacks, queues, lists, and priority queues, and algorithmic techniques for sorting, searching and hashing. Emphasis on modularity and reuse. Introduction to the concept of object-oriented design and interface specifications.",
+	courseHours = "1"
+},
+
+new Course
+{
+	courseID = 25,
+	coursePrefix = "CIS",
+	courseNumber = "523",
+	courseTitle = "Introduction to Concurrent Programming",
+	courseDescription = "Introduction to concurrent programming techniques based on message passing primitives (send/receive) and shared memory (semaphore based P/V operations and monitor-based wait/signal operations).",
+	courseHours = "1"
+},
+
+new Course
+{
+	courseID = 26,
+	coursePrefix = "CIS",
+	courseNumber = "525",
+	courseTitle = "Telecommunications and Data Communication Systems",
+	courseDescription = "Basic concepts including OSI 7 layer model, data transmission methods, medium access, link control, connections management; network applications including electronic mail, file transfer, distributed computing, window systems; network management including OSI and Internet management frameworks.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 27,
+	coursePrefix = "CIS",
+	courseNumber = "526",
+	courseTitle = "Web Interface Design",
+	courseDescription = "Fundamental principles and best practices of interface design, web service design, advanced web interfaces, web development frameworks, web standards and accessibility issues.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 28,
+	coursePrefix = "CIS",
+	courseNumber = "530",
+	courseTitle = "Introduction to Artificial Intelligence",
+	courseDescription = "Fundamental background in intelligent systems for undergraduate students. Intelligent agents, problem-solving, uninformed and informed (heuristic) search, game tree search, foundations of knowledge representation and reasoning using logic and probability, and a first introduction to planning and machine learning. AI topics include the problem areas of natural language processing (NLP) and perception and methodologies such as artificial neural networks and genetic and evolutionary computation. Applications to practical design and development of intelligent systems will be emphasized, leading to individual projects on current topics and applications in AI.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 29,
+	coursePrefix = "CIS",
+	courseNumber = "536",
+	courseTitle = "Introduction to Computer Graphics",
+	courseDescription = "Introduction to computer graphics for undergraduate students. Mathematical foundations (e.g., linear, affine, and projective transformations) and fundamental topics in realistic rendering: view normalization, clipping and culling, scan conversion of lines and polygons, shading and illumination, texture mapping, user interfaces, picking, and collision handling. Intermediate topics include shaders, procedural textures, particle systems, basics of animation, fractals, color theory, and ray tracing.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 30,
+	coursePrefix = "CIS",
+	courseNumber = "540",
+	courseTitle = "Software Engineering Project I",
+	courseDescription = "The first semester of a two-semester capstone course. Current practices of software development, requirements, design, prototyping, measures and evaluation. Specification, design, and prototyping of a software system.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 31,
+	coursePrefix = "CIS",
+	courseNumber = "541",
+	courseTitle = "Software Engineering Project II",
+	courseDescription = "Continuation of CIS 540. Final implementation, integration, and testing of a software system. Introduction to configuration management, project management, and software maintenance.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 32,
+	coursePrefix = "CIS",
+	courseNumber = "543",
+	courseTitle = "Software Engineering Design Project",
+	courseDescription = "Current practices of software development, requirements, design, prototyping, measures and evaluations. Specification, design, and prototyping of a software system.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 33,
+	coursePrefix = "CIS",
+	courseNumber = "544",
+	courseTitle = "Advanced Software Design and Development",
+	courseDescription = "Advanced concepts and practicum in object-oriented analysis, modeling, design, implementation, testing, and use of CASE tools; relationships among structural, static, and dynamic models; relationship among conceptual, system, and implementation models.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 34,
+	coursePrefix = "CIS",
+	courseNumber = "548",
+	courseTitle = "Software Management",
+	courseDescription = "Topics related to the management of software, including organization, project planning, process models, life cycle models, TQM, software quality assurance, cost estimation, configuration management.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 35,
+	coursePrefix = "CIS",
+	courseNumber = "551",
+	courseTitle = "Introduction to Computer and Information Security",
+	courseDescription = "An introduction to computer and information security, including common attack techniques, application of cryptography in security, authentication and authorization, network security, enterprise network defense, web security, and analysis of design flaws that render a system vulnerable. Course projects provide hands-on experience on both the defense and offense aspects in cyberspace.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 36,
+	coursePrefix = "CIS",
+	courseNumber = "553",
+	courseTitle = "Intro Applied Cryptography",
+	courseDescription = "Introduction to the fundamentals of cryptography, including mathematical background, classical ciphers, public key encryption, block and stream ciphers, cryptographic hash functions, digital signatures, common attacks, and basic security protocols.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 37,
+	coursePrefix = "CIS",
+	courseNumber = "560",
+	courseTitle = "Database System Concepts",
+	courseDescription = "Concepts, approaches, and techniques in database management. Representation of information as data, data storage techniques, foundations of logical data models, data retrieval, database design, transaction management, integrity and security.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 38,
+	coursePrefix = "CIS",
+	courseNumber = "562",
+	courseTitle = "Enterprise Information Systems",
+	courseDescription = "Conceptual models for E-Commerce and for business applications, database management systems, relational data model, normal forms, query language, security features, web access and scripting languages, development process and management, issues in management of enterprise information systems.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 39,
+	coursePrefix = "CIS",
+	courseNumber = "570",
+	courseTitle = "Introduction to Formal Language Theory",
+	courseDescription = "Formal languages, automata, regular expressions, grammars, introduction to computability theory. Reading and writing informal mathematical proofs pertaining to these topics.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 40,
+	coursePrefix = "CIS",
+	courseNumber = "575",
+	courseTitle = "Introduction to Algorithm Analysis",
+	courseDescription = "An introduction to mathematical analysis of time- and space-complexity of algorithms, including worst-case, average-case, and amortized complexity. An examination of various algorithmic designs, such as greedy algorithms, divide-and-conquer algorithms, and dynamic programming algorithms. Techniques for proving correctness of algorithms.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 41,
+	coursePrefix = "CIS",
+	courseNumber = "580",
+	courseTitle = "Fundamentals of Game Programming",
+	courseDescription = "Fundamental principles of programming games. Foundational game algorithms and data structures. Two-dimensional graphics and physics simulation. Development for multiple platforms. Utilization of game programming libraries. Design of multiple games incorporating topics covered.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 42,
+	coursePrefix = "CIS",
+	courseNumber = "585",
+	courseTitle = "Game Engine Design",
+	courseDescription = "Current practices of game engine development. The game engine as a soft real-time multi-agent simulation.  Three-dimensional graphics and animation techniques, scene management, physics simulation, event systems, resource management, and network game architectures.  Design and prototyping of a general use game engine.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 43,
+	coursePrefix = "CIS",
+	courseNumber = "590",
+	courseTitle = "Special Topics in Computer Science",
+	courseDescription = "Selected topics in computer science.",
+	courseHours = "1-4"
+},
+
+new Course
+{
+	courseID = 44,
+	coursePrefix = "CIS",
+	courseNumber = "597",
+	courseTitle = "Information Systems Project",
+	courseDescription = "Directed studies: selection and completion of a project; may include collaboration with other students; may include design, analysis, and implementation. Completion of a plan, two progress reviews, and a final report with literature review and project evaluation.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 45,
+	coursePrefix = "CIS",
+	courseNumber = "598",
+	courseTitle = "Computer Science Project",
+	courseDescription = "Directed studies: selection, investigation and report on some topic not covered in prior courses; may include an implementation and/or experimentation component; may be done in collaboration with other students. Completion of a plan, two reviews, and a final report with literature review and project evaluation.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 46,
+	coursePrefix = "CIS",
+	courseNumber = "604",
+	courseTitle = "Set Theory and Logic for CS",
+	courseDescription = "Informal and axiomatic set theory, propositional and predicate logic, proof techniques.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 47,
+	coursePrefix = "CIS",
+	courseNumber = "621",
+	courseTitle = "Real-Time Programming Fundamentals",
+	courseDescription = "Relationship between C/C++ constructs and corresponding assembly code generated by compilers. Introduction to special techniques used to implement micro-controllers, such as initialization of programmable CPU modules/peripheral devices, techniques to link assembly and C/C++ codes, producing ROM-able code, and EPROM burning/Flash programming.",
+	courseHours = "1"
+},
+
+new Course
+{
+	courseID = 48,
+	coursePrefix = "CIS",
+	courseNumber = "622",
+	courseTitle = "Real-Time Operating Systems",
+	courseDescription = "Basic real-time operating systems concepts and services; interrupt processing; process and thread models; real-time software architectures and development environments. Detailed study of design and implementation of real-time applications using real-time operating systems.",
+	courseHours = "1"
+},
+
+new Course
+{
+	courseID = 49,
+	coursePrefix = "CIS",
+	courseNumber = "625",
+	courseTitle = "Concurrent Software Systems",
+	courseDescription = "Architecture, design, modeling, implementation, and verification of concurrent, parallel, and distributed software; aspects such as real-time programming, parallel simulation; fault-tolerant programming; grid computing, embedded systems control.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 50,
+	coursePrefix = "CIS",
+	courseNumber = "635",
+	courseTitle = "Introduction to Computer-Based Knowledge Systems",
+	courseDescription = "Introduction to the applications of artificial intelligence concepts to solving knowledge-dependent tasks. Review of knowledge-representation ideas. Survey of expert system design. Introduction to existing knowledge-based tools available on personal computers. Development of an intelligent system.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 51,
+	coursePrefix = "CIS",
+	courseNumber = "636",
+	courseTitle = "Introduction to Computer Graphics",
+	courseDescription = "Devices and software for graphics display and user interaction, development of software for direct graphic manipulation applications.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 52,
+	coursePrefix = "CIS",
+	courseNumber = "638",
+	courseTitle = "Multimedia Systems",
+	courseDescription = "Introduction to computer graphics devices, user interaction; history and scope; multimedia structure, encoding methods and standards, mark-up and scripting languages, software tools, and applications; readings in current literature; class presentation; multimedia project.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 53,
+	coursePrefix = "CIS",
+	courseNumber = "640",
+	courseTitle = "Software Testing Techniques",
+	courseDescription = "Survey of software testing methodologies; evaluation of software testing strategies; experience in a variety of software testing practices.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 54,
+	coursePrefix = "CIS",
+	courseNumber = "645",
+	courseTitle = "Software Development Environments",
+	courseDescription = "Survey of current development environments and/or an in-depth study of one development environment.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 55,
+	coursePrefix = "CIS",
+	courseNumber = "690",
+	courseTitle = "Implementation Project",
+	courseDescription = "The department will suggest various design or implementation projects for individuals or groups in areas such as translators, interpreters, microprogramming, minicomputer operating systems, graphics, numerical software, etc.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 56,
+	coursePrefix = "CIS",
+	courseNumber = "697",
+	courseTitle = "Seminar in Computer Science",
+	courseDescription = "",
+	courseHours = "1-3"
+},
+
+new Course
+{
+	courseID = 57,
+	coursePrefix = "CIS",
+	courseNumber = "705",
+	courseTitle = "Programming Languages",
+	courseDescription = "Programming language concepts, including typing, scoping, abstraction and exceptions; programming paradigms, including one or more of logic, functional, object-oriented and concurrent programming, and programming languages supporting the selected paradigms; introduction to programming language semantics; programming language design; development environments.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 58,
+	coursePrefix = "CIS",
+	courseNumber = "706",
+	courseTitle = "Translator Design I",
+	courseDescription = "Compilers and interpreters, including description of languages, finite state scanners. LL(1) parsing, symbol tables, syntax-directed semantics, simple code generation. Constructing a simple compiler.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 59,
+	coursePrefix = "CIS",
+	courseNumber = "710",
+	courseTitle = "Computer Simulation Experiments",
+	courseDescription = "Principles of digital computer simulation; discrete simulation method, statistics of simulations; implementations.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 60,
+	coursePrefix = "CIS",
+	courseNumber = "720",
+	courseTitle = "Advanced Operating Systems",
+	courseDescription = "Process synchronization and communication, distributed programming primitives, transactions and concurrency control, distributed scheduling, distributed storage, deadlock, security.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 61,
+	coursePrefix = "CIS",
+	courseNumber = "721",
+	courseTitle = "Real-Time Systems",
+	courseDescription = "The design of hard real-time embedded systems, including language and operating system support, scheduling, schedulability analysis, fault tolerance, and design tools.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 62,
+	coursePrefix = "CIS",
+	courseNumber = "722",
+	courseTitle = "Operating System Practices",
+	courseDescription = "Structure and functions of modern operating systems. Emphasis on reading and modifying the source code of a working operating system. This includes memory management, input/output, process management, file systems, and network interconnection software construction.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 63,
+	coursePrefix = "CIS",
+	courseNumber = "725",
+	courseTitle = "Advanced Computer Networks",
+	courseDescription = "Network algorithms; routing and congestion control; protocol engineering; protocol decomposition, specification and verification, synthesis; protocols for high speed networks; parallel implementations, light-weight protocols.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 64,
+	coursePrefix = "CIS",
+	courseNumber = "726",
+	courseTitle = "Advanced World Wide Web Technologies",
+	courseDescription = "An advanced course on the technologies that make up the World Wide Web. WWW site designs and analysis, WWW software architecture, server-side technologies, dynamic executable scheduling, digital libraries, WWW security.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 65,
+	coursePrefix = "CIS",
+	courseNumber = "730",
+	courseTitle = "Principles of Artificial Intelligence",
+	courseDescription = "Introduction to the fundamental concepts and techniques of AI: problem solving, search and planning, knowledge representation and qualitative reasoning, expert systems, natural language processing and cognitive modeling, computer vision, and machine learning.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 66,
+	coursePrefix = "CIS",
+	courseNumber = "732",
+	courseTitle = "Machine Learning and Pattern Recognition",
+	courseDescription = "Theory and methodology of inductive learning, including decision trees, artificial neural networks, probabilistic and instance-based learning, and inductive logic programming; unsupervised and reinforcement learning, bagging and boosting; genetic algorithms and genetic programming; and applications to data mining.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 67,
+	coursePrefix = "CIS",
+	courseNumber = "734",
+	courseTitle = "Introduction to Genomics and Bioinformatics",
+	courseDescription = "A problem solving approach to understanding genomics and bioinformatics. Practical use of databases and web-based tools used to study biological problems. Introduction to the algorithms behind these tools.",
+	courseHours = "4"
+},
+
+new Course
+{
+	courseID = 68,
+	coursePrefix = "CIS",
+	courseNumber = "736",
+	courseTitle = "Computer Graphics",
+	courseDescription = "Topics in computer representation and display of images and graphic interaction.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 69,
+	coursePrefix = "CIS",
+	courseNumber = "740",
+	courseTitle = "Software Engineering",
+	courseDescription = "Software life cycle, requirements, specifications, design, validation, measures, and maintenance.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 70,
+	coursePrefix = "CIS",
+	courseNumber = "744",
+	courseTitle = "Advanced Software Analysis and Design",
+	courseDescription = "Advanced concepts and practicum in object-oriented analysis, modeling, design, implementation, testing, and use of CASE tools; relationships among structural, static, and dynamic models; relationship among conceptual, system, and implementation models.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 71,
+	coursePrefix = "CIS",
+	courseNumber = "746",
+	courseTitle = "Software Measurement",
+	courseDescription = "Measurement theory; development, validation and use of software measures; software measures in the life cycle, including cost estimation, design measures, software complexity and software reliability.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 72,
+	coursePrefix = "CIS",
+	courseNumber = "748",
+	courseTitle = "Advanced Software Management",
+	courseDescription = "Topics related to the management of software, including organization, project planning, process models, life cycle models, TQM, software quality assurance, cost estimation, configuration management.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 73,
+	coursePrefix = "CIS",
+	courseNumber = "750",
+	courseTitle = "Advanced Computer Architecture Experiments",
+	courseDescription = "Characteristics of various computers including those with execution support of multiprocessing, multiprogramming, microprogrammable, high-level language, stack processing, and communication architectures.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 74,
+	coursePrefix = "CIS",
+	courseNumber = "751",
+	courseTitle = "Computer and Information Security",
+	courseDescription = "A comprehensive coverage of computer and information security. Basic cryptography, access control, authentication, authorization, network security, software security, and social aspects of security. The lectures discuss when and where things can go wrong and how design flaws in a system can be exploited to compromise security. Common attack techniques are introduced, and students have the opportunity to work on course projects that cover both the defense and offense aspects in cyberspace.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 75,
+	coursePrefix = "CIS",
+	courseNumber = "753",
+	courseTitle = "Applied Cryptography",
+	courseDescription = "Fundamentals of cryptography, including mathematical background, classical ciphers, public key encryption, block and stream ciphers, cryptographic hash functions, digital signatures, common attacks, and basic network security.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 76,
+	coursePrefix = "CIS",
+	courseNumber = "755",
+	courseTitle = "Advanced Computer and Information Security",
+	courseDescription = "In-depth coverage of advanced theoretical and practical security techniques with emphasis on construction of new systems and auditing and repair of existing security-critical systems using rigorous design, risk analysis, and engineering methods and application of state-of-art theoretical tools.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 77,
+	coursePrefix = "CIS",
+	courseNumber = "761",
+	courseTitle = "Data Base Management Systems",
+	courseDescription = "Data models and languages, hierarchical, network, relational systems; implementation and operational requirements; programming projects using data base management systems.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 78,
+	coursePrefix = "CIS",
+	courseNumber = "762",
+	courseTitle = "Office Automation",
+	courseDescription = "Characteristics of information work; modeling systems for characterizing aspects of office environment; form-based systems; office automation and description languages, ergonomics, local area networks and tools used in the automation of offices.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 79,
+	coursePrefix = "CIS",
+	courseNumber = "764",
+	courseTitle = "Database Design",
+	courseDescription = "Conceptual, logical, physical, and user interface design for database management systems.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 80,
+	coursePrefix = "CIS",
+	courseNumber = "770",
+	courseTitle = "Formal Language Theory",
+	courseDescription = "Regular languages, finite automata, context-free languages, pushdown automata, context-sensitive languages, linear bounded automata, recursively enumerable languages, Turing machines.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 81,
+	coursePrefix = "CIS",
+	courseNumber = "771",
+	courseTitle = "Software Specification",
+	courseDescription = "Formal logic or specification of software components; algebraic vs. model-based specifications; common abstract types; verification of properties of specifications; introduction to specification of concurrent systems.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 82,
+	coursePrefix = "CIS",
+	courseNumber = "775",
+	courseTitle = "Analysis of Algorithms",
+	courseDescription = "Study and application of techniques and procedures used in the analysis of algorithms including the worst and average cases of both time and space. Study of the P and NP classes.",
+	courseHours = "3"
+},
+
+new Course
+{
+	courseID = 83,
+	coursePrefix = "CIS",
+	courseNumber = "798",
+	courseTitle = "Topics in Computer Science",
+	courseDescription = "",
+	courseHours = "Variable"
+}

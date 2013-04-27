@@ -1,0 +1,95 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MessageParser
+{
+    public enum ModelType
+    {
+        Course, DegreeProgram, ElectiveCourse, ElectiveList, ElectiveListCourse, Plan, PlanCourse,
+        PrerequisiteCourse, RequiredCourse, Semester, User
+    }
+    public enum MethodType
+    {
+        GetItemByID, GetItemByClause, GetAll, GetItemsByClause
+    }
+    public class GenericRequest
+    {
+        public ModelType Type {get; set;}
+        public MethodType Method { get; set; }
+        public string Sender { get; set; }
+        public string Receiver { get; set; }
+    }
+
+    public class Request<T> : GenericRequest
+    {
+        public int RequestedID { get; set; }
+        public Func<T, bool> RequestedClause { get; set; }
+
+        public Request(ModelType m, MethodType method, string sender, string receiver)
+        {
+            this.Type = m;
+            this.Method = method;
+            this.Sender = sender;
+            this.Receiver = receiver;
+        }
+
+        public static Request<T> GetItemByID(int id, string sender, string receiver)
+        {
+            string typestr = typeof(T).ToString().Split('.').Last();
+            Console.WriteLine(typestr);
+            foreach (ModelType m in Enum.GetValues(typeof(ModelType)))
+            {
+                if (m.ToString() == typestr)
+                {
+                    var ret = new Request<T>(m, MethodType.GetItemByID, sender, receiver);
+                    ret.RequestedID = id;
+                    return ret;
+                }
+            }
+            return null;
+        }
+        public static Request<T> GetItemByClause(Func<T, bool> clause, string sender, string receiver)
+        {
+            string typestr = typeof(T).ToString();
+            foreach (ModelType m in Enum.GetValues(typeof(ModelType)))
+            {
+                if (m.ToString() == typestr)
+                {
+                    var ret = new Request<T>(m, MethodType.GetItemByClause, sender, receiver);
+                    ret.RequestedClause = clause;
+                    return ret;
+                }
+            }
+            return null;
+        }
+        public static Request<T> GetItemsByClause(Func<T, bool> clause, string sender, string receiver)
+        {
+            string typestr = typeof(T).ToString();
+            foreach (ModelType m in Enum.GetValues(typeof(ModelType)))
+            {
+                if (m.ToString() == typestr)
+                {
+                    var ret = new Request<T>(m, MethodType.GetItemsByClause, sender, receiver);
+                    ret.RequestedClause = clause;
+                    return ret;
+                }
+            }
+            return null;
+        }
+        public static Request<T> GetItemByID(string sender, string receiver)
+        {
+            string typestr = typeof(T).ToString();
+            foreach (ModelType m in Enum.GetValues(typeof(ModelType)))
+            {
+                if (m.ToString() == typestr)
+                {
+                    return new Request<T>(m, MethodType.GetAll, sender, receiver);
+                }
+            }
+            return null;
+        }
+    }
+}

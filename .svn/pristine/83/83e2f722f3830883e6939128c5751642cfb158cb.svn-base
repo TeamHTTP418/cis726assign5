@@ -1,0 +1,26 @@
+﻿@model CIS726_Assignment2.ViewModels.PlanCourseEdit
+
+@using (Html.BeginForm("SaveCourseInfo", "Plans", FormMethod.Post, new {@id = "editform"})) {
+
+    <h4>Update Plan Course</h4>
+    <hr />
+    <strong>Notes:</strong> @Html.EditorFor(model => model.notes);
+    <br />
+    if (Model.electiveListName != null)
+    {
+        <strong>Elective List: </strong> @Html.DisplayFor(model => model.electiveListName)
+        <br />
+        <strong>Course: </strong>@Html.DropDownList("courseID", String.Empty);
+    }else{
+        @Html.DisplayFor(model => model.courseHeader)
+        @Html.HiddenFor(model => model.courseID);
+    }
+    @Html.HiddenFor(model => model.ID);
+    <p>
+        <input id="savecourse" type="submit" value="Save" /> <a href="#" class="jqmClose">Close</a>
+    </p>
+    <h5 id="pcourseok" class="success" hidden="true">Changes Saved</h5>
+    <h5 id="pcoursebad" class="warning" hidden="true">Changes Not Saved</h5>
+}
+
+@Scripts.Render("~/bundles/popup")

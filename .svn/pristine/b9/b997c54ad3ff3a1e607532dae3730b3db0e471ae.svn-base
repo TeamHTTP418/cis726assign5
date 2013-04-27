@@ -1,0 +1,111 @@
+﻿namespace CIS726_Assignment2.Migrations
+{
+    using System;
+    using System.Data.Entity;
+    using System.Data.Entity.Migrations;
+    using System.Linq;
+    using System.Xml;
+    using System.Reflection;
+    using WebMatrix.WebData;
+    using System.Web.Security;
+
+
+    internal sealed class Configuration : DbMigrationsConfiguration<CIS726_Assignment2.Models.AccountDBContext>
+    {
+        public Configuration()
+        {
+            AutomaticMigrationsEnabled = true;
+        }
+
+        protected override void Seed(CIS726_Assignment2.Models.AccountDBContext context)
+        {
+
+            WebSecurity.InitializeDatabaseConnection(
+                "AccountDBContext",
+                "Users",
+                "ID",
+                "username", autoCreateTables: true);
+
+            if (!Roles.RoleExists("Administrator"))
+            {
+                Roles.CreateRole("Administrator");
+            }
+            if (!Roles.RoleExists("Advisor"))
+            {
+                Roles.CreateRole("Advisor");
+            }
+
+            if (!WebSecurity.UserExists("admin"))
+            {
+                WebSecurity.CreateUserAndAccount(
+                    "admin",
+                    "admin",
+                    new { realName = "Administrator" });
+            }
+            if (!Roles.GetRolesForUser("admin").Contains("Administrator"))
+            {
+                Roles.AddUserToRole("admin", "Administrator");
+            }
+
+            if (!WebSecurity.UserExists("advisor"))
+            {
+                WebSecurity.CreateUserAndAccount(
+                    "advisor",
+                    "advisor",
+                    new { realName = "Advisor" });
+            }
+            if (!Roles.GetRolesForUser("advisor").Contains("Advisor"))
+            {
+                Roles.AddUserToRole("advisor", "Advisor");
+            }
+
+            if (!WebSecurity.UserExists("csUndergrad"))
+            {
+                WebSecurity.CreateUserAndAccount(
+                    "csUndergrad",
+                    "csUndergrad",
+                    new { realName = "Computer Science Undergraduate" });
+            }
+
+            if (!WebSecurity.UserExists("seUndergrad"))
+            {
+                WebSecurity.CreateUserAndAccount(
+                    "seUndergrad",
+                    "seUndergrad",
+                    new { realName = "Software Engineering Undergraduate" });
+            }
+
+            if (!WebSecurity.UserExists("isUndergrad"))
+            {
+                WebSecurity.CreateUserAndAccount(
+                    "isUndergrad",
+                    "isUndergrad",
+                    new { realName = "Information Systems Undergraduate" });
+            }
+
+            if (!WebSecurity.UserExists("msGrad"))
+            {
+                WebSecurity.CreateUserAndAccount(
+                    "msGrad",
+                    "msGrad",
+                    new { realName = "Computer Science Masters Student" });
+            }
+
+            if (!WebSecurity.UserExists("mseGrad"))
+            {
+                WebSecurity.CreateUserAndAccount(
+                    "mseGrad",
+                    "mseGrad",
+                    new { realName = "Software Engineering Masters Student" });
+            }
+
+            if (!WebSecurity.UserExists("phdGrad"))
+            {
+                WebSecurity.CreateUserAndAccount(
+                    "phdGrad",
+                    "phdGrad",
+                    new { realName = "Computer Science Doctoral Student" });
+            }
+        }
+    }
+}

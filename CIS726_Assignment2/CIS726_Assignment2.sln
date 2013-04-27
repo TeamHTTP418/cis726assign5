@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIS726_Assignment2", "CIS726_Assignment2\CIS726_Assignment2.csproj", "{F5C1B19A-46A7-49CF-9781-DAEF7FF9D915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIS726_Assignment2.Tests", "CIS726_Assignment2.Tests\CIS726_Assignment2.Tests.csproj", "{50FD0221-E76F-469F-8D7C-89606F6D86F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{DB3D1A1C-11E1-4D8E-B87B-52E8895E4B58}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageParser", "MessageParser\MessageParser.csproj", "{92EA7CE6-DAE0-45CB-BEF8-3AFC8F6CC358}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthParser", "AuthParser\AuthParser.csproj", "{DC9D1FB9-ACE6-4A9A-9089-9C220104ACFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5C1B19A-46A7-49CF-9781-DAEF7FF9D915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C1B19A-46A7-49CF-9781-DAEF7FF9D915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C1B19A-46A7-49CF-9781-DAEF7FF9D915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C1B19A-46A7-49CF-9781-DAEF7FF9D915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50FD0221-E76F-469F-8D7C-89606F6D86F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FD0221-E76F-469F-8D7C-89606F6D86F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FD0221-E76F-469F-8D7C-89606F6D86F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FD0221-E76F-469F-8D7C-89606F6D86F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92EA7CE6-DAE0-45CB-BEF8-3AFC8F6CC358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EA7CE6-DAE0-45CB-BEF8-3AFC8F6CC358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EA7CE6-DAE0-45CB-BEF8-3AFC8F6CC358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EA7CE6-DAE0-45CB-BEF8-3AFC8F6CC358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC9D1FB9-ACE6-4A9A-9089-9C220104ACFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9D1FB9-ACE6-4A9A-9089-9C220104ACFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9D1FB9-ACE6-4A9A-9089-9C220104ACFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9D1FB9-ACE6-4A9A-9089-9C220104ACFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

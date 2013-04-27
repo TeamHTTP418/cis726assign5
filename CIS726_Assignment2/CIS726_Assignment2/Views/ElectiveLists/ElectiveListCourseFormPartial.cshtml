@@ -1,0 +1,16 @@
+﻿@model MessageParser.Models.ElectiveListCourse
+@using HtmlHelpers.BeginCollectionItem
+
+<fieldset>
+    @using(Html.BeginCollectionItem("ElectiveListCourses")){
+    <ol>
+        <li>
+            Course: @Html.TextBox("electiveListName", (Model != null && Model.course != null ? Model.course.courseHeader : ""), new { @class = "eleclistcourseauto" })  |  
+            <a href="#" onclick="$(this).parent().parent().parent().remove(); return false;">Delete Course</a>
+            @Html.HiddenFor(model => model.courseID, new { @class = "eleclistcourseid" })
+            @Html.HiddenFor(model => model.electiveListID)
+            @Html.HiddenFor(model => model.ID)
+        </li>
+    </ol>
+    }
+</fieldset>

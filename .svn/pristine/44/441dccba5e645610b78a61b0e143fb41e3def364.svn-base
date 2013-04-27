@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MessageParser
+{
+    public class Request<T>
+    {
+        public enum Methods
+        {
+            GetItemByID, GetItemByClause, GetAll
+        }
+
+        public string Method { get; set; }
+        public Object Argument { get; set; }
+        public string Sender { get; set; }
+        public string Receiver { get; set; }
+
+        public Request(Request<T>.Methods method, Object arg, string sender, string receiver)
+        {
+            this.Method = method.ToString();
+            this.Argument = arg;
+            this.Sender = sender;
+            this.Receiver = receiver;
+        }
+
+        public static Request<T> GetItemByID(int id, string sender, string receiver)
+        {
+            return new Request<T>(Methods.GetItemByID, new {id=id}, sender, receiver);
+        }
+        public static Request<T> GetItemByClause(Func<T, bool> clause, string sender, string receiver)
+        {
+            return new Request<T>(Methods.GetItemByID, new { clause = clause }, sender, receiver);
+        }
+        public static Request<T> GetItemByID(string sender, string receiver)
+        {
+            return new Request<T>(Methods.GetItemByID, new { }, sender, receiver);
+        }
+    }
+}

@@ -1,0 +1,193 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Security;
+using CIS726_Assignment2.Models;
+
+namespace CIS726_Assignment2.Repositories
+{
+    public class MSMQRoleProvider : RoleProvider
+    {
+        AccountDBContext context;
+
+        public MSMQRoleProvider()
+        {
+            context = new AccountDBContext();
+        }
+
+        public override void AddUsersToRoles(string[] usernames, string[] roleNames)
+        {
+            foreach (string username in usernames)
+            {
+                foreach (string rolename in roleNames)
+                {
+                    if (!IsUserInRole(username, rolename))
+                    {
+                        if (!RoleExists(rolename))
+                        {
+                            CreateRole(rolename);
+                        }
+                        int userID = getIDforUser(username);
+                        int roleID = getIDforRole(rolename);
+                        UserRoles userroles = new UserRoles()
+                        {
+                            userID = userID,
+                            roleID = roleID
+                        };
+                        context.UserRoles.Add(userroles);
+                        context.SaveChanges();
+                    }
+                }
+            }
+        }
+
+        private string applicationName = "CIS726";
+
+        public override string ApplicationName
+        {
+            get
+            {
+                return applicationName;
+            }
+            set
+            {
+                applicationName = value;
+            }
+        }
+
+        public override void CreateRole(string roleName)
+        {
+            List<Role> roles = context.Roles.Where(r => r.rolename.Equals(roleName)).ToList<Role>();
+            if (roles.Count == 0)
+            {
+                Role role = new Role()
+                {
+                    rolename = roleName,
+                };
+                context.Roles.Add(role);
+                context.SaveChanges();
+            }
+        }
+
+        public override bool DeleteRole(string roleName, bool throwOnPopulatedRole)
+        {
+            List<Role> roles = context.Roles.Where(r => r.rolename.Equals(roleName)).ToList<Role>();
+            if (roles.Count == 1)
+            {
+                Role role = roles[0];
+                context.Roles.Remove(role);
+                context.SaveChanges();
+                return true;
+            }
+            return false;
+        }
+
+        public override string[] FindUsersInRole(string roleName, string usernameToMatch)
+        {
+            return GetUsersInRole(roleName);
+        }
+
+        public override string[] GetAllRoles()
+        {
+            List<string> roles = context.Roles.Select(r => r.rolename).ToList();
+            return roles.ToArray<string>();
+        }
+
+        public override string[] GetRolesForUser(string username)
+        {
+            int ID = getIDforUser(username);
+            if (ID >= 0)
+            {
+                List<UserRoles> userroles = context.UserRoles.Where(u => u.userID == ID).ToList<UserRoles>();
+                List<string> roles = new List<string>();
+                foreach (UserRoles ur in userroles)
+                {
+                    roles.Add(ur.role.rolename);
+                }
+                return roles.ToArray<string>();
+            }
+            return new string[0];
+        }
+
+        public override string[] GetUsersInRole(string roleName)
+        {
+            int ID = getIDforRole(roleName);
+            if (ID >= 0)
+            {
+                List<UserRoles> userroles = context.UserRoles.Where(u => u.roleID == ID).ToList<UserRoles>();
+                List<string> users = new List<string>();
+                foreach (UserRoles ur in userroles)
+                {
+                    users.Add(ur.user.username);
+                }
+                return users.ToArray<string>();
+            }
+            return new string[0];
+        }
+
+        public override bool IsUserInRole(string username, string roleName)
+        {
+            int userID = getIDforUser(username);
+            int roleID = getIDforRole(roleName);
+            List<UserRoles> userroles = context.UserRoles.Where(u => u.roleID == roleID && u.userID == userID).ToList<UserRoles>();
+            if (userroles.Count > 0)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public override void RemoveUsersFromRoles(string[] usernames, string[] roleNames)
+        {
+            foreach (string username in usernames)
+            {
+                foreach (string rolename in roleNames)
+                {
+                    if (IsUserInRole(username, rolename))
+                    {
+                        int userID = getIDforUser(username);
+                        int roleID = getIDforRole(rolename);
+                        UserRoles userroles = context.UserRoles.Where(u => u.userID == userID && u.roleID == roleID).FirstOrDefault();
+                        if (userroles != null)
+                        {
+                            context.UserRoles.Remove(userroles);
+                            context.SaveChanges();
+                        }
+                    }
+                }
+            }
+        }
+
+        public override bool RoleExists(string roleName)
+        {
+            List<Role> roles = context.Roles.Where(r => r.rolename.Equals(roleName)).ToList<Role>();
+            if (roles.Count > 0)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        private int getIDforUser(string username)
+        {
+            List<User> users = context.Users.Where(u => u.username.Equals(username)).ToList<User>();
+            if (users.Count == 1)
+            {
+                return users[0].ID;
+            }
+            return -1;
+        }
+
+        private int getIDforRole(string rolename)
+        {
+            List<Role> roles = context.Roles.Where(u => u.rolename.Equals(rolename)).ToList<Role>();
+            if (roles.Count == 1)
+            {
+                return roles[0].ID;
+            }
+            return -1;
+        }
+
+    }
+}

@@ -1,0 +1,29 @@
+﻿@model CIS726_Assignment2.Models.User
+
+@{
+    ViewBag.Title = "User Details";
+}
+
+<div class="contentbox">
+    <div class="liquid_100">
+        <h2>@Html.DisplayFor(model => model.username)</h2>
+        <hr />
+        <p>
+            <strong>@Html.DisplayNameFor(model => model.realName)</strong>
+            @Html.DisplayFor(model => model.realName)
+        </p>
+        @if(ViewBag.UserRoles.Count > 0){
+            <strong>Roles:</strong>
+            <ul>
+            @foreach(String role in ViewBag.UserRoles){
+                <li>@Html.Raw(role)</li>
+            }
+            </ul>
+        }
+        <p>
+            @Html.ActionLink("Edit", "Edit", new { id=Model.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=Model.ID }) |
+            @Html.ActionLink("Back to Users List", "Index")
+        </p>
+    </div>
+</div>

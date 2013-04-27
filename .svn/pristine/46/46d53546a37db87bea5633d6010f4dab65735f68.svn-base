@@ -1,0 +1,47 @@
+﻿@model CIS726_Assignment2.Models.Course
+@using CIS726_Assignment2.Models
+
+    <p>
+        @Html.DisplayFor(model => model.courseDescription)
+    </p>
+    <p>
+        <strong>@Html.DisplayNameFor(model => model.courseHours):</strong> @Html.DisplayFor(model => model.courseHours)
+    </p>
+    <p>
+        <strong>Catalogs:</strong> 
+        @if(Model.undergrad && Model.graduate){ @Html.Raw("Undergraduate, Graduate") } else
+        if(Model.graduate){ @Html.Raw("Graduate") } else
+        if(Model.undergrad){ @Html.Raw("Undergraduate") }
+    </p>
+    <p>
+        @if(Model.prerequisites.Count > 0){
+            <strong>Prerequisites:</strong>
+            foreach(PrerequisiteCourse precourse in Model.prerequisites){ 
+                @Html.DisplayFor(model => precourse.prerequisiteCourse)
+            }   
+        }
+    </p>
+    <p>
+        @if(Model.prerequisiteFor.Count > 0){
+            <strong>Prerequisite For:</strong>
+            foreach(PrerequisiteCourse precourse in Model.prerequisiteFor){ 
+                @Html.DisplayFor(model => precourse.prerequisiteForCourse)
+            }   
+        }
+    </p>
+    <p>
+        @if(Model.degreePrograms.Count > 0){
+            <strong>Degree Requirement for these Degree Programs:</strong>
+            foreach(RequiredCourse reqcourse in Model.degreePrograms){ 
+                @Html.DisplayFor(model => reqcourse.degreeProgram)
+            }   
+        }
+    </p>
+    <p>
+        @if(Model.electiveLists.Count > 0){
+            <strong>Optional Requirement in these Elective Lists:</strong>
+            foreach(ElectiveListCourse elcourse in Model.electiveLists){
+                @Html.DisplayFor(model => elcourse.electiveList)
+            }   
+        }
+    </p>

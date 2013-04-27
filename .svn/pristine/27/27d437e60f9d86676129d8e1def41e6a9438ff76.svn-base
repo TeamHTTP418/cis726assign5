@@ -1,0 +1,20 @@
+﻿@model MessageParser.Models.DegreeProgram
+
+@{
+    ViewBag.Title = "Degree Program Details";
+}
+
+<div class="contentbox">
+    <div class="liquid_100">
+        @Html.Partial("DegreeProgramDetailsPartial", Model)
+        <p>
+            @Html.ActionLink("Edit", "Edit", new { id=Model.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=Model.ID }) |
+            @Html.ActionLink("Back to Degree Program List", "Index")
+        </p>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/flowchartstatic")
+}

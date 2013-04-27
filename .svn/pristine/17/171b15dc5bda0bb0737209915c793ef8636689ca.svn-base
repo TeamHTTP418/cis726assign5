@@ -1,0 +1,53 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Messaging;
+using MessageParser.Models;
+using System.Data.SqlClient;
+
+namespace MessageParser
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            while (true)
+            {
+                try
+                {
+                    //Object obj = ObjectMessageQueue.receiveObject();
+
+                    //GenericRequest gen_req = obj as GenericRequest;
+                    GenericRequest gen_req = Request<Course>.GetItemByID(5, "a", "b");
+                    Console.WriteLine(gen_req is Request<Course>);
+                    Console.ReadKey();
+                    
+                    if (gen_req == null)
+                    {
+                        Console.WriteLine("Error processing request, it is not a request object!");
+                        Console.ReadLine();
+                    }
+                    else
+                    {
+                        MessageProcessor parser = new MessageProcessor(gen_req as Request<Course>);
+                        try
+                        {
+                            Object result = typeof(MessageProcessor).GetMethod(gen_req.Method.ToString()).Invoke(parser, null);
+                        }
+                        catch (SqlException)
+                        {
+                            Console.WriteLine("An error occurred.");
+                        }
+                        Console.ReadKey();
+                    }
+                }
+                catch (MessageQueueException)
+                {
+                    continue;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+﻿@model MessageParser.Models.DegreeProgram
+
+@{
+    ViewBag.Title = "Edit Degree Program";
+}
+
+<div class="contentbox">
+    <div class="liquid_100">
+        <h2>Edit Degree Program: @Html.DisplayFor(model => model.degreeProgramName)</h2>
+@using (Html.BeginForm("Edit", "DegreePrograms", FormMethod.Post, new {@id = "editform"})) {
+        @Html.HiddenFor(model => model.ID)
+        @Html.Partial("DegreeProgramFormPartial", Model)
+        <hr />
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+}
+        <p>
+            @Html.ActionLink("Back to Degree Program List", "Index")
+        </p>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/site")
+}

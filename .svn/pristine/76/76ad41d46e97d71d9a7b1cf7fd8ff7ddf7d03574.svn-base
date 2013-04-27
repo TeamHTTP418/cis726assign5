@@ -1,0 +1,45 @@
+﻿@model MessageParser.Models.DegreeProgram
+
+@{
+    ViewBag.Title = "Create Degree Program";
+}
+
+<div class="contentbox">
+    <div class="liquid_100">
+        <h2>Create New Degree Program</h2>
+
+@using (Html.BeginForm("Create", "DegreePrograms", FormMethod.Post, new {@id = "editform"})) 
+{
+        @Html.ValidationSummary(true)
+        <fieldset>
+            <legend>Basic Degree Program Information</legend>
+            <ol>
+                <li>
+                    @Html.LabelFor(model => model.degreeProgramName)
+                    @Html.EditorFor(model => model.degreeProgramName)
+                    @Html.ValidationMessageFor(model => model.degreeProgramName)
+                </li>
+            </ol>
+        </fieldset>
+        <fieldset>
+        <legend>Description</legend>
+        <ol>
+            <li>
+                @Html.EditorFor(model => model.degreeProgramDescription)
+                @Html.ValidationMessageFor(model => model.degreeProgramDescription)
+            </li>
+        </ol>
+        </fieldset>
+        <p>
+            <input type="submit" value="Save and Continue" />
+        </p>
+}
+        <p>
+            @Html.ActionLink("Back to Degree Program List", "Index")
+        </p>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

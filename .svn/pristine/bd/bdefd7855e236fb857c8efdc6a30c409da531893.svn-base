@@ -1,0 +1,25 @@
+﻿@model CIS726_Assignment2.Models.ElectiveList
+
+@{
+    ViewBag.Title = "Elective List Details";
+}
+
+<div class="contentbox">
+    <div class="liquid_100">
+        <h2>@Html.DisplayFor(model => model.electiveListName)</h2>
+        <hr />
+        <p>
+            <strong>@Html.DisplayNameFor(model => model.shortName):</strong> @Html.DisplayFor(model => model.shortName)
+        </p>
+        <p>
+            <strong>Available Courses</strong>
+            @Html.DisplayFor(model => model.courses)
+        </p>
+        <p>
+            @Html.ActionLink("Edit", "Edit", new { id=Model.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=Model.ID }) |
+            @Html.ActionLink("Back to Elective Lists", "Index")
+        </p>
+    </div>
+</div>
+

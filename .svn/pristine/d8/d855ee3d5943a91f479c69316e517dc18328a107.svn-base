@@ -1,0 +1,18 @@
+namespace CIS726_Assignment2.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class AddSemesterOrderFieldMig : DbMigration
+    {
+        public override void Up()
+        {
+            AddColumn("dbo.PlanCourses", "order", c => c.Int(nullable: false));
+        }
+        
+        public override void Down()
+        {
+            DropColumn("dbo.PlanCourses", "order");
+        }
+    }
+}

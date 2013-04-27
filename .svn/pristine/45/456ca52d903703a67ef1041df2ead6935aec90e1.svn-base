@@ -1,0 +1,78 @@
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Messaging;
+using System.Runtime.Serialization;
+using System.Web;
+
+
+//Add References: System.Messaging and System.Runtime.Serialization to the Project References
+//Add Datatag: [Serializable] or [DataContract] to IModel
+
+namespace CIS726_Assignment2.Models
+{
+    public class ObjectMessageQueue
+    {
+        private const string MESSAGE_QUEUE = @".\Private$\Sample";
+
+        public static void sendObject(object obj)
+        {
+            if (obj == null)
+            {
+                throw new ArgumentNullException("obj");
+            }
+
+            // Get object type
+            Type objType = obj.GetType();
+
+            // Open existing queue
+            using (MessageQueue queue = new MessageQueue(MESSAGE_QUEUE))
+            {
+                using (MemoryStream stream = new MemoryStream())
+                {
+                    // Serialize the object as XML into the stream
+                    DataContractSerializer serializer = new DataContractSerializer(objType);
+                    
+                    serializer.WriteObject(stream, obj);
+
+                    // Rewind the stream
+                    stream.Position = 0;
+
+                    // Create and send new message
+                    using (Message message = new Message())
+                    {
+                        message.BodyStream = stream;
+
+                        // Pass object type as message label
+                        message.Label = objType.FullName;
+                        queue.Send(message);
+                    }
+                }
+            }
+        }
+
+        public static object receiveObject() 
+        {
+
+                // Open existing queue
+                using (MessageQueue queue = new MessageQueue(MESSAGE_QUEUE))
+                {
+                    // Wait 10 seconds for a message,
+                    // after that MessageQueueException will be thrown
+                    using (Message message = queue.Receive(TimeSpan.FromSeconds(10)))
+                    {
+                        // Gets object type from the message label
+                        Type objType = Type.GetType(message.Label, true, true);
+
+                        // Derializes object from the stream
+                        DataContractSerializer serializer = new DataContractSerializer(objType);
+                        return serializer.ReadObject(message.BodyStream);
+                    }
+                }
+            
+            
+        }
+
+    }
+}
