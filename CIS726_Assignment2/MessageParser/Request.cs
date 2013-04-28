@@ -28,6 +28,7 @@ namespace MessageParser
         public int RequestedID { get; set; }
         public string RequestedName { get; set; }
         public string requester_guid { get; set; }
+        public string requester_ip { get; set; }
     }
 
     public class Request<T> : GenericRequest

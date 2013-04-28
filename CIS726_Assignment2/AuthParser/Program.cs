@@ -19,6 +19,8 @@ namespace AuthParser
     class Program
     {
         static private ConcurrentQueue<AccountDBContext> contextQueue;
+        static private Object context_lock;
+        static private int context_count;
         static void Main(string[] args)
         {
             AppDomain.CurrentDomain.SetData("DataDirectory", Application.StartupPath);
@@ -29,8 +31,8 @@ namespace AuthParser
             ObjectMessageQueue.InitializeQueue(ObjectMessageQueue.AUTH_REQUEST);
 
             contextQueue = new ConcurrentQueue<AccountDBContext>();
-            for (int i = 0; i < 25; i++)
-                contextQueue.Enqueue(new AccountDBContext());
+            context_lock = new object();
+            context_count = 0;
             ThreadPool.SetMaxThreads(25, 0);
             ThreadPool.SetMinThreads(5, 0);
 
@@ -41,6 +43,7 @@ namespace AuthParser
                     Object obj = queue.receiveObject(ObjectMessageQueue.AUTH_REQUEST);
                     GenericRequest gen_req = obj as GenericRequest;
                     gen_req.requester_guid = queue.RequestGuid;
+                    gen_req.requester_ip = queue.RequestIP;
                     ThreadPool.QueueUserWorkItem(DoMessage, obj);
                 }
                 catch (Exception e)
@@ -56,6 +59,7 @@ namespace AuthParser
             GenericRequest gen_req = obj as GenericRequest;
             ObjectMessageQueue queue = new ObjectMessageQueue();
             queue.RequestGuid = gen_req.requester_guid;
+            queue.RequestIP = gen_req.requester_ip;
             if (gen_req == null)
             {
                 Console.WriteLine("Error processing request, it is not a request object!");
@@ -65,9 +69,30 @@ namespace AuthParser
             {
                 Console.WriteLine("Fetching data...");
                 AccountDBContext context = null;
-                while (contextQueue.TryDequeue(out context) == false)
+                if (contextQueue.TryDequeue(out context) == false)
                 {
-                    Thread.Sleep(5);
+                    //Check if we are under the max count of contexts allowed
+                    bool createNew = false;
+                    lock (context_lock)
+                    {
+                        if (context_count < 25)
+                        {
+                            context_count++;
+                            createNew = true;
+                        }
+                    }
+                    //If we are allowed, create a context for ourself and the pool.
+                    if (createNew)
+                    {
+                        context = new AccountDBContext();
+                    }
+                    else //Else, wait for a context to be available
+                    {
+                        while (contextQueue.TryDequeue(out context) == false)
+                        {
+                            Thread.Sleep(5);
+                        }
+                    }
                 }
                 AuthProcessor parser = new AuthProcessor(context, gen_req);
                 try
